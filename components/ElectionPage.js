@@ -2,26 +2,34 @@
 
 import Image from "next/image";
 import Data from "./ElectionData"
-import {useState} from "react"
+import {useState,useEffect} from "react"
+
+
+import Link from "next/link";
+import Router from "next/router";
+
+import{setItem} from "local-data-storage";
 import useLocalStorage from "use-local-storage";
-import { 
-    itemExists,
-    setItem,
-    getItem
- } from "local-data-storage";
-
-
 function ElectionPage(){
 const [ElectionInfo,SetElectionInfo] = useLocalStorage("kosofe",Data)
+
 const [WardPollingUnit,setWardPollingUnit] = useState({ward:0,pu:0})
+
 //const [ElectionResult,UpdateElectionResult] = useLocalStorage("kosofe",Data)
 // console.log(ElectionInfo)
 // const kosofeData = getItem("kosofe").value.kosofe
 //   console.log(kosofeData)
-//  let kosofeData = ElectionInfo.kosofe
+  //let kosofeData = ElectionInfo.kosofe
 //  console.log('kosofeData')
 //  console.log(kosofeData)
 // console.log('kosofeData')
+// useEffect(() => {
+//     Router.push({
+//         path:"/wards",
+//         Query:kosofeData})
+// }, [])
+
+    
 
  //!!!!!!!Important: First Kick Start local Storage with this command in the onSubmit()!!!!!!!!!!!!!!!
         //--->UpdateElectionResult(Data)
@@ -38,6 +46,7 @@ const [WardPollingUnit,setWardPollingUnit] = useState({ward:0,pu:0})
             
             <form className="flex flex-col mb-20 " onSubmit={(e)=>{alert('Data updated');
         e.preventDefault();
+        //sendResult();
         //!!!!!!!Important: First Kick local Storage with this command!!!!!!!!!!!!!!!
         //--->UpdateElectionResult(Data)
         //then interact directlly with local Storgae instead of use State

@@ -6,11 +6,16 @@ import apc from "../public/apc.png";
 import Link from "next/link";
 import useLocalStorage from "use-local-storage";
 import ElectionPage from '../components/ElectionPage';
+
+
+
 import { getItem} from "local-data-storage";
-import { useLayoutEffect } from "react";
 
 const wards = () => {
-  const kosofeData = [
+  
+const [a,b] = useLocalStorage("kosofe",'')
+
+  const kosofeData1 = [
     {
       wardNo: 1,
       wardName: "OWORONSHOKI WARD",
@@ -25261,11 +25266,12 @@ const wards = () => {
       ],
     },
   ];
- useLayoutEffect(()=>{
-  const kosofeData = getItem("kosofe").value.kosofe
-  console.log(kosofeData)
-  console.log('kosofeData')},[])
-//   console.log(kosofeData)
+
+let kosofeData
+      a?( kosofeData = a.kosofe):( kosofeData=kosofeData1)
+     console.log(kosofeData)
+
+     
   return (
     <div className={Style.wards}>
       <div className={Style.wards_box}>
