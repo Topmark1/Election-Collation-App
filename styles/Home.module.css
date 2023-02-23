@@ -1,24 +1,29 @@
 .home{
   width: 100%;
   background-color: rgb(189, 184, 184);
-  height: 50vh;
+  height: 100%;
   padding: 10rem 1rem;
 }
 
 .home_box{
   width: 30%;
   margin: auto;
+  margin-top: -20px;
   text-align: center;
   background-color: white;
-  padding: ;
+  padding:0px;
   border-radius: .5rem;
+}
+.mar{
+  margin-top: -70px;
 }
 
 .home_box_imgs{
-  
+  display:flex;
+  justify-content: space-around;
 }
-
 .home_img{
+  
   border-radius: 50%;
   padding: 1.3rem .5rem;
 }
@@ -51,7 +56,10 @@
   .home_box{
     width: 90%;
   }
-
+  .home_img{
+    width:120px;
+    height:150px
+  }
   .home_box h3{
     font-size: .8rem;
   }

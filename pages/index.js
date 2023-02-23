@@ -14,15 +14,16 @@ export default function Home() {
             className={Style.home_img}
             src={kalifat}
             alt="hon."
-            width={100}
-            height={100}
+            
+            width={140}
+            height={110}
           />
           <Image
             className={Style.home_img}
             src={apc}
             alt="apc"
-            width={100}
-            height={100}
+            width={140}
+            height={110}
           />
         </div>
         <h3>Welcome to Hon. Kafilat Ogbara Result Channel </h3>

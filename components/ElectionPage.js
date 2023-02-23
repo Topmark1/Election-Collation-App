@@ -4,12 +4,24 @@ import Image from "next/image";
 import Data from "./ElectionData"
 import {useState} from "react"
 import useLocalStorage from "use-local-storage";
+import { 
+    itemExists,
+    setItem,
+    getItem
+ } from "local-data-storage";
 
 
 function ElectionPage(){
 const [ElectionInfo,SetElectionInfo] = useLocalStorage("kosofe",Data)
 const [WardPollingUnit,setWardPollingUnit] = useState({ward:0,pu:0})
 //const [ElectionResult,UpdateElectionResult] = useLocalStorage("kosofe",Data)
+// console.log(ElectionInfo)
+// const kosofeData = getItem("kosofe").value.kosofe
+//   console.log(kosofeData)
+//  let kosofeData = ElectionInfo.kosofe
+//  console.log('kosofeData')
+//  console.log(kosofeData)
+// console.log('kosofeData')
 
  //!!!!!!!Important: First Kick Start local Storage with this command in the onSubmit()!!!!!!!!!!!!!!!
         //--->UpdateElectionResult(Data)
@@ -24,8 +36,6 @@ const [WardPollingUnit,setWardPollingUnit] = useState({ward:0,pu:0})
         <section className="col-span-2">
             {/*Election Result Input Area */}
             
-           
-
             <form className="flex flex-col mb-20 " onSubmit={(e)=>{alert('Data updated');
         e.preventDefault();
         //!!!!!!!Important: First Kick local Storage with this command!!!!!!!!!!!!!!!
@@ -338,5 +348,9 @@ ward.pollingUnits.map((pollingUnit)=>
         </section>
         </main> )
 }
-
 export default ElectionPage
+
+// export const kosofeData = ElectionInfo//{d:6}
+// console.log('kosofeData')
+// console.log(kosofeData)
+// console.log('kosofeData')

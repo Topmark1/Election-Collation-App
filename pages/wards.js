@@ -4,6 +4,10 @@ import Image from "next/image";
 import Style from "../styles/wards.module.css";
 import apc from "../public/apc.png";
 import Link from "next/link";
+import useLocalStorage from "use-local-storage";
+import ElectionPage from '../components/ElectionPage';
+import { getItem} from "local-data-storage";
+import { useLayoutEffect } from "react";
 
 const wards = () => {
   const kosofeData = [
@@ -25257,7 +25261,11 @@ const wards = () => {
       ],
     },
   ];
-
+ useLayoutEffect(()=>{
+  const kosofeData = getItem("kosofe").value.kosofe
+  console.log(kosofeData)
+  console.log('kosofeData')},[])
+//   console.log(kosofeData)
   return (
     <div className={Style.wards}>
       <div className={Style.wards_box}>

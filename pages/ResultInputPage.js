@@ -81,7 +81,11 @@ onChange={(e)=>{Checkphrase(e.target.value)}} /></div>)}
         </div>
      {/*ElectionPage*/}
       <ElectionPage />
-    </div>):(<div className='m-5 text-blue-500'>Input correct Username and Password to Access control page</div>)}
+    </div>):(<div className='m-5 text-blue-700 border p-3 bg-gray-100 rounded-full w-96 h-16'>Input correct Username and Password to Access Control Page</div>)}
     </>
   )
 }
+
+
+
+ 
