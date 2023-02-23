@@ -1,0 +1,88 @@
+.home{
+  width: 100%;
+  background-color: rgb(189, 184, 184);
+  height: 50vh;
+  padding: 10rem 1rem;
+}
+
+.home_box{
+  width: 30%;
+  margin: auto;
+  text-align: center;
+  background-color: white;
+  padding: ;
+  border-radius: .5rem;
+}
+
+.home_box_imgs{
+  
+}
+
+.home_img{
+  border-radius: 50%;
+  padding: 1.3rem .5rem;
+}
+
+.home_box h3{
+  font-weight: 600;
+  line-height: 2;
+  font-size: 1rem;
+  width: 100%;
+  border-bottom: solid 4px red;
+}
+
+.home_box p{
+  font-weight: 500;
+}
+
+.home_box button{
+  padding: 1rem 2rem;
+  border-radius: 1rem;
+  border: none;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  background-color: green;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+
+@media screen and (max-width: 35em) {
+  .home_box{
+    width: 90%;
+  }
+
+  .home_box h3{
+    font-size: .8rem;
+  }
+
+  .home_box button{
+    font-size: 1rem;
+  }
+}
+@media screen and (min-width: 450px) and (max-width: 768px) {
+  .home_box{
+    width: 80%;
+  }
+
+  .home_box h3{
+    font-size: 1rem;
+  }
+
+  .home_box button{
+    font-size: 1rem;
+  }
+}
+@media screen and (min-width: 770px) and (max-width: 1024px) {
+  .home_box{
+    width: 80%;
+  }
+
+  .home_box h3{
+    font-size: 1rem;
+  }
+
+  .home_box button{
+    font-size: 1rem;
+  }
+}

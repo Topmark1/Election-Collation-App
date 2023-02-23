@@ -1,0 +1,3570 @@
+import React, { useState } from "react";
+import Image from "next/image";
+import Link from "next/link";
+
+import Style from "../styles/wards.module.css";
+import resultStyle from "../styles/resultStyle.module.css";
+import apc from "../public/apc.png";
+
+const pollenUnits1 = () => {
+  const [dropResult, setDropResult] = useState(null);
+
+  const openResults = (i) => {
+    if (!dropResult) {
+      setDropResult(i);
+    } else if (dropResult === i) {
+      setDropResult(null);
+    } else setDropResult(i);
+    console.log(dropResult);
+  };
+  const ward1 = {
+    wardNo: 7,
+    wardName: "ISHERI‐OLOWO‐IRA/SHANGISHA/MAGODO PHASE I & II",
+  };
+
+  const pollingUnits = [
+    {
+      PU_No: "001",
+      PU_Name: "JUNCTION OF ASSOCIATION AVENUE/ADEYEMI ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "002",
+      PU_Name: "ASSOCIATION AVENUE, IN FRONT OF HOUSE NO. 10",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "003",
+      PU_Name: "OGUNNAIKE AVENUE IN FRONT OF HOUSE 10.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "004",
+      PU_Name: "YAKUBU ST. IN FRONT OF HOUSE NO. 32",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "005",
+      PU_Name: "OMONIYI ST. IN FRONT OF HOUSE NO. 10",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "006",
+      PU_Name: "OLATUNJI OLADIPO ST. IN FRONT OF HOUSE NO. 4",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "007",
+      PU_Name: "JUNCTION OF KASUMU STREET/YETUNDE JOSHUA AVENUE",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "008",
+      PU_Name: "JUNCTION OF ONIBEJU ST./MUTAIRU ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "009",
+      PU_Name: "MOSES IGUDOALA ST. IN FRONT OF HOUSE NO. 4",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "010",
+      PU_Name: "JUNCTION OF OLABISI ST./OLOLADE AVENUE",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "011",
+      PU_Name: "ZIKA USIPO ST. IN FRONT OF HOUSE NO. 1",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "012",
+      PU_Name: "ALH. BASHEER SHITTU AVE, IN FRONT OF HOUSE NO 70.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "013",
+      PU_Name: "ADEKUNLE ADEBANJO STR, IN FRONT OF HOUSE NO. 27",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "014",
+      PU_Name: "OPEN SPACE BESIDE MAGODO/SHANGISHA POLICE POST",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "015",
+      PU_Name: "JUNCTION OF KAYODE TAIWO ST./ADEBIYI ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "016",
+      PU_Name: "BOY'S APPROVE SCHOOL COMPOUND, ISHERI ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "017",
+      PU_Name: "JUNCTION OF AIYEDUN ST./SOYEBI ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "018",
+      PU_Name: "SEHINDEMI ST. IN FRONT OF HOUSE NO. 18",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "019",
+      PU_Name: "AKINWUNMI ST. IN FRONT OF HOUSE NO. 15",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "020",
+      PU_Name: "FELICIA OKE ST. IN FRONT OF HOUSE NO. 20",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "021",
+      PU_Name: "JUNCTION OF ADEYEMI ST./OWOKADE ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "022",
+      PU_Name: "FADEYI ST. IN FRONT OF HOUSE NO. 24",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "023",
+      PU_Name: "MOSES OGUNGBEYE ST. IN FRONT OF HOUSE NO. 13",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "024",
+      PU_Name: "ALFRED OGUNYEMI ST. IN FRONT OF HOUSE NO 6",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "025",
+      PU_Name: "OLOWO-IRA ORY. SCHOOL",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "026",
+      PU_Name: "JUNCTION OF OLOWO-IRA ROAD/GEORGE ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "027",
+      PU_Name: "GEORGE ST. IN FRONT OF HOUSE NO. 26",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "028",
+      PU_Name: "OLATUNDE ATIBA STREET IN FRONT OF HOUSE 13",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "029",
+      PU_Name: "ADEGBOYEGA ST. IN FRONT OF HOUSE NO. 4",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "030",
+      PU_Name: "ADETUBERU ST. IN FRONT OF HOUSE NO. 18",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "031",
+      PU_Name: "JUNCTION OF ISHERI ROAD/ADEJOKUN ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "032",
+      PU_Name: "AGBEDINA ST. IN FRONT OF HOUSE NO. 2 1",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "033",
+      PU_Name: "AGBEDINA ST. IN FRONT OF HOUSE NO. 2 2",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "034",
+      PU_Name: "WOMEN TRAINING CENTRE, AJIODE ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "035",
+      PU_Name: "UNITED ANGLICAN CHURCH SCHOOL",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "036",
+      PU_Name: "AJEGUNLE ST. IN FRONT OF HOUSE NO. 15",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "037",
+      PU_Name: "JUNCTION OF MOSALASHI ST./AGO IJAIYE ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "038",
+      PU_Name: "COMMUNITY HALL, ISHERI OKE I",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "039",
+      PU_Name: "COMMUNITY HALL, ISHERI OKE II",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "040",
+      PU_Name: "APENA ST. IN FRONT OF HOUSE NO. 12",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "041",
+      PU_Name: "KAREEM ST. IN FRONT OF HOUSE NO. 16",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "042",
+      PU_Name: "SALAKO ST. IN FRONT OF HOUSE NO. 6",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "043",
+      PU_Name: "ISHERI GRAMMAR SCH., ISHERI",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "044",
+      PU_Name: "JUNCTION OF KOLAWOLE ST./ADEBIYI ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "045",
+      PU_Name: "WILMER ST. IN FRONT OF HOUSE NO. 7",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "046",
+      PU_Name: "WILMER ST. IN FRONT OF HOUSE NO. 22",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "047",
+      PU_Name:
+        "IN FRONT OF MAGODO COMMUNITY VIEWING CENTRE (EKO GBEMI B/STOP) MAGODO PHASE II",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "048",
+      PU_Name: "IN FRONT OF B.K. LAWAL CLOSE",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "049",
+      PU_Name: "SOMIDE ODUJINRIN AVENUE, IN FRONT OF HOUSE NO. 15",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "050",
+      PU_Name: "BY THE GATE OF TOKUNBO MACAULAY ST. ON EMMANUEL KESHI ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "051",
+      PU_Name: "ENTRANCE OF UNILAG ESTATE",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "052",
+      PU_Name: "JUNCTION OF SOWANDE ST./REV. EMMANUEL ADUBIFA AVENUE",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "053",
+      PU_Name: "OPEN SPACE BETWEEN FUNSO WILLIAMS ST./ADEFEMI TAIRE ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "054",
+      PU_Name: "ALHAJI LATEEF BISHI ST., BETWEEN HOUSE NOS. 7 & 9",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "055",
+      PU_Name: "JUNCTION OF ONIBEJU ST./MUTAIRU ST.",
+      Remark: "EXISTING PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "056",
+      PU_Name: "KASUNMU JUNC. BY THE TRANSFORMER",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "057",
+      PU_Name: "53, ASSOCIATION AVENUE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "058",
+      PU_Name: "7, OLUWAKEMI STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "059",
+      PU_Name: "21, OMONIYI STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "060",
+      PU_Name: "OSIKOMAYA STREET GATE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "061",
+      PU_Name: "12, IREPODUN STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "062",
+      PU_Name: "2, OLABISI STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "063",
+      PU_Name: "YOMI KUYE/OLOLADE JUNCTION",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "064",
+      PU_Name: "OGUNNAIKE/ADEKUNLE JUNCTION",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "065",
+      PU_Name: "8, ALH. GBINDIN NINUOLA IDOWU STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "066",
+      PU_Name: "23, ALH. ASAFA STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "067",
+      PU_Name: "12, RAMAT ALONGE STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "068",
+      PU_Name: "JUNC. OF MAIYE OGUNDANA/ADEKUNLE BANJO AVENUE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "069",
+      PU_Name: "ROBERT STREET/MORADEUN ALABI CRESCENT JUNCTION",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "070",
+      PU_Name: "DIPO AWOLESI/ADEKUNLE BANJO JUNCTION",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "071",
+      PU_Name: "14, JAIYE OYEDOTUN STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "072",
+      PU_Name: "33, JAIYE OYEDOTUN STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "073",
+      PU_Name: "JUNCTION OF KAYODE TAIWO OPPOSITE PSSDC",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "074",
+      PU_Name: "RIVER BANK ESTATE MAIN GATE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "075",
+      PU_Name: "OPEN FIELD BESIDE CHANNELS TV",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "076",
+      PU_Name: "ISHERI NORTH LSDPC ESTATE GATE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "077",
+      PU_Name: "ISHERI NORTH GRA ESTATE GATE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "078",
+      PU_Name: "OGUNJIRIN STREET/ADEBO ADEMEHIN JUNCTION",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "079",
+      PU_Name: "ADIGUN FANBODE STREET BY SECURITY POST",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "080",
+      PU_Name: "PRINCE JAMES ADEFEYISAN STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "081",
+      PU_Name: "1, FELICIA OKE STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "082",
+      PU_Name: "2, OWOKADE/SANYAOLU JUNCTION",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "083",
+      PU_Name: "7, OLATUNDE SULE STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "084",
+      PU_Name: "4, MOSES OGUNGBEYE STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "085",
+      PU_Name: "RAFIU AJIBADE CLOSE/ FASHE STREET JUNCTION",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "086",
+      PU_Name: "THOMAS ADEBOYE STREET/ OREMEJI STREET JUNCTION",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "087",
+      PU_Name: "6,ALI STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "088",
+      PU_Name: "OLOWORA RD/SOLOMON AVENUE JUNC.",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "089",
+      PU_Name: "5, ADEBAYO STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "090",
+      PU_Name: "ALH. ADEGBOYEGA/ABIOLA JUNCTION",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "091",
+      PU_Name: "ISAAC OMOLE/ADETUBERU STREET JUNC.",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "092",
+      PU_Name: "32, OLD OLOWORA RD, IN FRONT OF AWOSIKE HOUSE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "093",
+      PU_Name: "9, OKIKI PUSU STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "094",
+      PU_Name: "15, BANKOLE STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "095",
+      PU_Name: "10, SANGOREMI STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "096",
+      PU_Name: "ISHERI PRIMARY SCHOOL II(INSIDE ANGLICAN SCHOOL)",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "097",
+      PU_Name: "56 OGUN RIVER ROAD IN FRONT OF OSHORUN HOUSE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "098",
+      PU_Name: "3, BANKOLE ST/ADEBOLA JUBRIL CLOSE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "099",
+      PU_Name: "5, OGUNBIYI CRESCENT ISHERI OKE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "100",
+      PU_Name: "99, OGUN RIVER RD",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "101",
+      PU_Name: "40, KAREEM STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "102",
+      PU_Name: "JAMIU OLOTO/FANOIKI STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "103",
+      PU_Name: "GATEWAY ESTATE GATE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "104",
+      PU_Name: "PLOT 2, ABIODUN BERO STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "105",
+      PU_Name: "ISHERI HEALTH CENTRE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "106",
+      PU_Name: "13,WILMER STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "107",
+      PU_Name: "8, ADEBISI OKUWA STREET/AKIN TIJANI",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "108",
+      PU_Name: "20, SALAMI OLONODE STREET ISHERI",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "109",
+      PU_Name: "41, JIMOH SHOBOWALE STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "110",
+      PU_Name: "GBIGBI STR/UNIC HIGH SCH JUNC.",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "111",
+      PU_Name: "TAWA ALIYU BELLO STR/OLUWATOYIN ELRAMO STR",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "112",
+      PU_Name: "716 AINA AKINGBOLA STR BY THE ESTATE GATE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "113",
+      PU_Name: "25, ADETORO ADELAJA STR.",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "114",
+      PU_Name: "75,EMMANUEL KESHI STR",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "115",
+      PU_Name: "IN FRONT OF PARKER CLOSE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "116",
+      PU_Name: "14, ADETORO ADELAJA STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "117",
+      PU_Name: "ADETORO ADELAJA/WALE ADELEKAN STREET JUNC.",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "118",
+      PU_Name: "2, BABS OSIBO STREET, MAGODO PHASE II",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "119",
+      PU_Name: "SOCIAL ROAD OPP COUNCIL CRESCENT JUNC.",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "120",
+      PU_Name: "9, ENGINEERING CLOSE OPP. LAW CLOSE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "121",
+      PU_Name: "JUNC. OF OLOWORA/ODUGIRIN",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "122",
+      PU_Name: "AINA AKINGBOLA/OTEDOLA STR JUNC",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "123",
+      PU_Name: "IBRAHIM BALOGUN STR IN FRONT OF CHIEF ODUMOSU HOUSE",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+    {
+      PU_No: "124",
+      PU_Name: "42, OSHORUN STREET",
+      Remark: "NEW PU",
+      Result: {
+        Presidential: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        LagosEastSenatorial: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+        HouseOfRepresentative: {
+          APC: 0,
+          PDP: 0,
+          LP: 0,
+          NNPP: 0,
+          ADC: 0,
+        },
+      },
+    },
+  ];
+
+  return (
+    <div className={Style.wards}>
+      <div className={Style.wards_box}>
+        <div className={Style.wards_box_head}>
+          <Image
+            className={Style.wards_box_head_img}
+            src={apc}
+            alt="apc-logo"
+            width={50}
+            height={50}
+          />
+          <h2>{ward1.wardName} Polling Units</h2>
+        </div>
+        <div className={Style.wards_box_wards}>
+          {pollingUnits.map((pollingUnit, i) => (
+            <p
+              className={Style.wards_box_ward}
+              onClick={() => openResults(i + 1)}
+            >
+              {pollingUnit.PU_No}
+              {"."} {"  "} {pollingUnit.PU_Name}
+              {dropResult === i + 1 ? (
+                <div className={resultStyle.resultDisplay}>
+                  <h3>{pollingUnit.PU_Name} RESULT SUMMARY</h3>
+
+                  <div className={resultStyle.pres}>
+                    <h4>PRESIDENTIAL</h4>
+                    <p>
+                      APC: {pollingUnit.Result.Presidential.APC}, PDP:{" "}
+                      {pollingUnit.Result.Presidential.PDP}, LP:
+                      {pollingUnit.Result.Presidential.LP}, NNPP:{" "}
+                      {pollingUnit.Result.Presidential.NNPP}, ADC:{" "}
+                      {pollingUnit.Result.Presidential.ADC},
+                    </p>
+                  </div>
+
+                  <div className={resultStyle.pres}>
+                    <h4>LAGOS EAST SENETORIAL</h4>
+                    <p>
+                      APC: {pollingUnit.Result.LagosEastSenatorial.APC}, PDP:{" "}
+                      {pollingUnit.Result.LagosEastSenatorial.PDP}, LP:
+                      {pollingUnit.Result.LagosEastSenatorial.LP}, NNPP:{" "}
+                      {pollingUnit.Result.LagosEastSenatorial.NNPP}, ADC:{" "}
+                      {pollingUnit.Result.LagosEastSenatorial.ADC},
+                    </p>
+                  </div>
+
+                  <div className={resultStyle.pres}>
+                    <h4>HOUSE OF REPRESENTATIVE</h4>
+                    <p>
+                      APC: {pollingUnit.Result.HouseOfRepresentative.APC}, PDP:{" "}
+                      {pollingUnit.Result.HouseOfRepresentative.PDP}, LP:
+                      {pollingUnit.Result.HouseOfRepresentative.LP}, NNPP:{" "}
+                      {pollingUnit.Result.HouseOfRepresentative.NNPP}, ADC:{" "}
+                      {pollingUnit.Result.HouseOfRepresentative.ADC},
+                    </p>
+                  </div>
+                </div>
+              ) : (
+                ""
+              )}
+            </p>
+          ))}
+        </div>
+      </div>
+    </div>
+  );
+};
+
+export default pollenUnits1;

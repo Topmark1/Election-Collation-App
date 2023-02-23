@@ -1,4 +1,4 @@
-import Image from "next/image";
+
 import {signOut,useSession} from 'next-auth/react';
 import {
     MagnifyingGlassIcon,
@@ -11,12 +11,33 @@ PlusCircleIcon,
 import {
     HomeIcon
 } from "@heroicons/react/24/solid";
+import Head from 'next/head';
+import ElectionPage from '../components/ElectionPage';
+import { useState } from 'react';
 
+export default function Home({posts}){ 
+  const [user,Setuser] = useState('')
+  const [phrase,Checkphrase] = useState('')
+return (
+  <>
+{phrase=="dragonfire"?"":(
+  <div className='ml-5 mt-20 flex flex-col'><input 
+  className="border border-black focus:ring-black focus:border-2 mt-10 mb-10 w-96 p-2 rounded-full h-12 bg-gray-100 flex-grow sm:px-5 focus:outline-none text-xs sm:text-xl"
+  placeholder='username' 
+  onChange={(e)=>{Setuser(e.target.value)}} />
+<input 
+className="border border-black focus:ring-black focus:border-2 mt-2 mb-5 w-96 p-2 rounded-full h-12 bg-gray-100 flex-grow sm:px-5 focus:outline-none text-xs sm:text-xl"
+placeholder='password' 
+onChange={(e)=>{Checkphrase(e.target.value)}} /></div>)}
 
-function Header(){
-const{data:session} = useSession();
-    return (
-        <div className="shadow-sm border-b bg-white sticky top-0 z-50">
+{/*//////////////After correct input phrase*/}
+
+    {phrase=="dragonfire"?(<div className='bg-gray-50 overflow-y-scroll scrollbar-hide ml-1 mr-1'>
+      <Head>
+        <title>ElectionPage</title>
+      </Head>
+      {/*Header*/}
+      <div className="shadow-sm border-b bg-white sticky top-0 z-50">
             <div className="flex justify-between max-w-6xl mx-5 lg:mx-auto">
 
             {/*Left */}
@@ -33,7 +54,9 @@ const{data:session} = useSession();
                 <div className="absolute inset-y-0 pl-3 flex items-center pointer-events-none">
                 <MagnifyingGlassIcon className="h-5 w-5 text-gray-500" />
                 </div>
-                <input className="bg-gray-100 block w-full pl-10 sm:text-sm border-gray-300 focus:ring-black focus:border-black rounded-md" type="text" placeholder="search" />
+                <button className="bg-gray-100 block w-full pl-10 sm:text-sm border-gray-300 focus:ring-black focus:border-black rounded-md" type="text">
+                  Refresh Storage
+                </button>
             </div>
             </div>
 
@@ -56,7 +79,9 @@ const{data:session} = useSession();
 
             </div>
         </div>
-        )
+     {/*ElectionPage*/}
+      <ElectionPage />
+    </div>):(<div className='m-5 text-blue-500'>Input correct Username and Password to Access control page</div>)}
+    </>
+  )
 }
-//"./profile.PNG"
-export default Header

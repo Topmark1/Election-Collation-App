@@ -1,3 +1,5 @@
+
+
 import Image from "next/image";
 import Data from "./ElectionData"
 import {useState} from "react"

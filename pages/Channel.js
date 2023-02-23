@@ -25,10 +25,15 @@ export default function Home() {
             height={100}
           />
         </div>
-        <h3>Welcome to Hon. Kafilat Ogbara Result Channel </h3>
-        <p>Click next to proceed</p>
-        <Link href={{ pathname: "Channel" }}>
-          <button>Next</button>
+        <h3>Welcome to Hon. Kafilat Ogbara Navigation Page </h3>
+        <Link href={{ pathname: "ResultInputPage" }}>
+          <button>Result Input Page</button>
+        </Link>
+        <Link href={{ pathname: "KosofeResult" }}>
+          <button>Kosofe Local Goverment Result</button>
+        </Link>
+        <Link href={{ pathname: "wards" }}>
+          <button>Result Break-Down</button>
         </Link>
       </div>
     </div>
