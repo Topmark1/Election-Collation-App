@@ -1,7 +1,5 @@
 
 
-
-
 const Data = {kosofe:
   [
     {
@@ -15,8 +13,8 @@ const Data = {kosofe:
                   "Remark": "EXISTING PU",
                   "Result": {
                     "Presidential": {
-                      APC: 0,
-                      "PDP": 0,
+                      APC: 3464,
+                      "PDP": 560,
                       "LP": 0,
                       "NNPP": 0,
                       "ADC": 0
@@ -23468,21 +23466,21 @@ const Data = {kosofe:
                       "Remark": "EXISTING PU",
                       "Result": {
                         "Presidential": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
                           "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
                           "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
@@ -23496,21 +23494,21 @@ const Data = {kosofe:
                       "Remark": "EXISTING PU",
                       "Result": {
                         "Presidential": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
                           "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
                           "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
@@ -23524,21 +23522,21 @@ const Data = {kosofe:
                       "Remark": "EXISTING PU",
                       "Result": {
                         "Presidential": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
                           "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
                           "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
@@ -23552,21 +23550,21 @@ const Data = {kosofe:
                       "Remark": "EXISTING PU",
                       "Result": {
                         "Presidential": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
                           "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
                           "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
@@ -23580,21 +23578,21 @@ const Data = {kosofe:
                       "Remark": "EXISTING PU",
                       "Result": {
                         "Presidential": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
                           "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
                           "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                          "APC": 0,
+                          "APC":0,
                           "PDP": 0,
                           "LP": 0,
                           "NNPP": 0,
