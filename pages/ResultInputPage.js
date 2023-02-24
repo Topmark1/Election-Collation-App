@@ -56,7 +56,7 @@ export default function Home({ posts }) {
             <title>ElectionPage</title>
           </Head>
           {/*Header*/}
-          <div className="shadow-sm border-b bg-white sticky top-0 z-50">
+          <div className="shadow-sm border-b bg-sky-200 sticky top-0 z-50">
             <div className="flex justify-between max-w-6xl mx-5 lg:mx-auto">
               {/*Left */}
               <div className="relative hidden lg:inline-grid w-24 cursor-pointer text-3xl mt-5">

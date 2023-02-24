@@ -371,7 +371,7 @@ placeholder={"ADC"}
                 </div>
                 <div>
       <button
-        className="absolute mt-10 ml-96 mb-14 pl-3 flex items-center hover:bg-red-500 cursor-pointer bg-gray-100  sm:text-sm border-gray-300 focus:ring-black focus:border-black rounded-md"
+        className="absolute mt-10 sm:ml-96 mb-14 pl-3 flex items-center hover:bg-red-500 cursor-pointer bg-gray-100  sm:text-sm border-gray-300 focus:ring-black focus:border-black rounded-md"
         onClick={handleClick}
       >
         Danger Refresh Storage
