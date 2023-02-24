@@ -73,6 +73,7 @@ const [showModal, setShowModal] = useState(false);
             
             <form className="flex flex-col mb-20 " onSubmit={(e)=>{alert('Data updated');
         e.preventDefault();
+        console.log(ElectionInfo)
         //sendResult();
         //!!!!!!!Important: First Kick local Storage with this command!!!!!!!!!!!!!!!
         //--->UpdateElectionResult(Data)
@@ -370,7 +371,7 @@ placeholder={"ADC"}
                 </div>
                 <div>
       <button
-        className="absolute mt-24 pl-3 flex items-center hover:bg-red-500 cursor-pointer bg-gray-100  sm:text-sm border-gray-300 focus:ring-black focus:border-black rounded-md"
+        className="absolute mt-10 ml-96 mb-14 pl-3 flex items-center hover:bg-red-500 cursor-pointer bg-gray-100  sm:text-sm border-gray-300 focus:ring-black focus:border-black rounded-md"
         onClick={handleClick}
       >
         Danger Refresh Storage
@@ -413,7 +414,14 @@ placeholder={"ADC"}
 
 
             {/*Real Time Election info*/}
-            <div className="flex flex-wrap w-full">
+           
+        </section>
+        </main> )
+}
+export default ElectionPage
+
+
+ {/*<div className="flex flex-wrap w-full">
         
             {"All Presidential Result : "}
             {ElectionInfo.kosofe.map((ward)=>
@@ -424,15 +432,11 @@ ward.pollingUnits.map((pollingUnit)=>
 {pollingUnit.Result.Presidential.PDP}
 {pollingUnit.Result.Presidential.NNPP}
 {pollingUnit.Result.Presidential.ADC}
-{/*"APC LagosEastSenatorial Result"*/}
+"APC LagosEastSenatorial Result"
 {pollingUnit.Result.LagosEastSenatorial.APC}
-</p>   )
+</p> )
 )}
-</div>
-        </section>
-        </main> )
-}
-export default ElectionPage
+</div>*/}
 
 // export const kosofeData = ElectionInfo//{d:6}
 // console.log('kosofeData')
