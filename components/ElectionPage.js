@@ -14,6 +14,7 @@ function ElectionPage(){
 const [ElectionInfo,SetElectionInfo] = useLocalStorage("kosofe",Data)
 
 const [WardPollingUnit,setWardPollingUnit] = useState({ward:0,pu:0})
+const [showModal, setShowModal] = useState(false);
 
 //const [ElectionResult,UpdateElectionResult] = useLocalStorage("kosofe",Data)
 // console.log(ElectionInfo)
@@ -39,8 +40,34 @@ const [WardPollingUnit,setWardPollingUnit] = useState({ward:0,pu:0})
         // SetElectionInfo(undefined);
         // SetElectionInfo(Data)
 
+        function Refresh(){
+            SetElectionInfo(undefined);
+         SetElectionInfo(Data);
+    }
+           
+
+
+    function handleClick() {
+      setShowModal(true);
+    }
+  
+    function handleConfirm() {
+      // Run your function here
+       Refresh();
+      // Hide the modal
+      setShowModal(false);
+    }
+  
+    function handleCancel() {
+      // Hide the modal
+      setShowModal(false);
+    }
+                
+
+
     return (
         <main className="grid grid-cols-1 md:grid-cols-2 md:max-w-3xl xl:grid-cols-3 xl:max-w-6xl mx-auto">
+            
         <section className="col-span-2">
             {/*Election Result Input Area */}
             
@@ -336,6 +363,54 @@ placeholder={"ADC"}
 
 <button className="mt-10 p-2 rounded-full h-12 bg-red-500 hover:bg-red-700 flex-grow sm:px-5 focus:outline-none text-xs sm:text-xl" type="submit" >Submit</button>
 </form>
+
+
+<div className="" onClick={Refresh}>
+                  
+                </div>
+                <div>
+      <button
+        className="absolute mt-24 pl-3 flex items-center hover:bg-red-500 cursor-pointer bg-gray-100  sm:text-sm border-gray-300 focus:ring-black focus:border-black rounded-md"
+        onClick={handleClick}
+      >
+        Danger Refresh Storage
+      </button>
+      {showModal && (
+        <div className="fixed inset-0 z-10 flex items-center justify-center bg-gray-500 bg-opacity-50">
+          <div className="bg-white p-8 rounded-lg shadow-lg">
+            <p className="mb-4">Are you sure you want to run the refresh Storage with last updated storage in vscode?</p>
+            <button
+              className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded mr-4"
+              onClick={handleConfirm}
+            >
+              Yes
+            </button>
+            <button
+              className="bg-gray-400 hover:bg-gray-600 text-white font-bold py-2 px-4 rounded"
+              onClick={handleCancel}
+            >
+              No
+            </button>
+          </div>
+        </div>
+      )}
+    </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
             {/*Real Time Election info*/}
             <div className="flex flex-wrap w-full">

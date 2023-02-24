@@ -5,7 +5,7 @@ import Link from "next/link";
 import Style from "../styles/wards.module.css";
 import resultStyle from "../styles/resultStyle.module.css";
 import apc from "../public/apc.png";
-import Data from "../components/ElectionData"
+import Data from "../components/ElectionData";
 
 const pollenUnits1 = () => {
   const [dropResult, setDropResult] = useState(null);
@@ -23,7 +23,7 @@ const pollenUnits1 = () => {
     wardName: "AGBOYI II",
   };
 
-  const pollingUnits = Data.kosofe[8].pollingUnits
+  const pollingUnits = Data.kosofe[0].pollingUnits;
 
   return (
     <div className={Style.wards}>

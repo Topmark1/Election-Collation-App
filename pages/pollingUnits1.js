@@ -5,13 +5,11 @@ import Link from "next/link";
 import Style from "../styles/wards.module.css";
 import resultStyle from "../styles/resultStyle.module.css";
 import apc from "../public/apc.png";
-import useLocalStorage from "use-local-storage";
-import Data from "../components/ElectionData"
+import Data from "../components/ElectionData";
 
 const pollenUnits1 = () => {
   const [dropResult, setDropResult] = useState(null);
-  //const [a,b] = useLocalStorage("kosofe",'')
-  
+
   const openResults = (i) => {
     if (!dropResult) {
       setDropResult(i);
@@ -26,13 +24,8 @@ const pollenUnits1 = () => {
     wardName: "OWORONSHOKI WARD",
   };
 
-  
-  const pollingUnits = Data.kosofe[0].pollingUnits
-  
-  
-  // let pollingUnits
-  // a?( pollingUnits = a.kosofe[0].pollingUnits):( pollingUnits=pollingUnits1)
- 
+  const pollingUnits = Data.kosofe[0].pollingUnits;
+
   return (
     <div className={Style.ward1}>
       <div className={Style.wards_box}>
@@ -55,7 +48,7 @@ const pollenUnits1 = () => {
               {pollingUnit.PU_No}
               {"."} {"  "} {pollingUnit.PU_Name}
               {dropResult === i + 1 ? (
-                <div className={resultStyle.resultDisplay}>
+                <div className={Style.resultDisplay}>
                   <h3>{pollingUnit.PU_Name} RESULT SUMMARY</h3>
 
                   <div className={resultStyle.pres}>

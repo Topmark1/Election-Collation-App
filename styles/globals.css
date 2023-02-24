@@ -1,13 +1,15 @@
-
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
 
-@layer components {
-.navBtn {
- @apply hidden h-6 md:inline-flex cursor-pointer hover:scale-125 transition-all duration-150 ease-out;
+
+:root {
+ 
+  --font-mono: ui-monospace, Menlo, Monaco, 'Cascadia Mono', 'Segoe UI Mono',
+    'Roboto Mono', 'Oxygen Mono', 'Ubuntu Monospace', 'Source Code Pro',
+    'Fira Mono', 'Droid Sans Mono', 'Courier New', monospace;
+background-color: rgb(189, 184, 184);
 }
-.inputIcon {
- @apply flex items-center space-x-1 hover:bg-gray-200 flex-grow justify-center p-2 rounded-xl cursor-pointer;
-}
-}
+
+
+

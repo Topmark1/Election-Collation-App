@@ -34,9 +34,9 @@ const wards = () => {
           />
           <h2>KOSOFE LOCAL GOVERMENT WARDS</h2>
         </div>
-        <div className={Style.wards_box_wards}>
+        <div className={Style.wards_box_wards} style={{}}>
           {kosofeData.map((ward, i) => (
-            <div>
+            <div >
             <Link
               href={{ pathname: `pollingUnits${i + 1}` }}
               key={i + 1}
