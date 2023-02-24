@@ -21,7 +21,8 @@ export default function Home({ posts }) {
       {(phrase == "dragonfire")&&(phrase1) ? (
         ""
       ) : (
-        <div className="ml-24 mt-20 flex flex-col">
+        <div className="ml-5 sm:ml-24 mr-10 mt-20 flex flex-col">
+          
           {/* <input
             className="border border-black focus:ring-black focus:border-2 mt-10 mb-10 w-96 p-2 rounded-full h-12 bg-gray-100 flex-grow sm:px-5 focus:outline-none text-xs sm:text-xl"
             placeholder="username"
@@ -29,6 +30,7 @@ export default function Home({ posts }) {
               Setuser(e.target.value);
             }}
           /> */}
+
           <input
             className="border border-black focus:ring-black focus:border-2 mt-2 mb-5 w-96 p-2 rounded-full h-12 bg-gray-100 flex-grow sm:px-5 focus:outline-none text-xs sm:text-xl"
             placeholder="password"
@@ -45,6 +47,7 @@ export default function Home({ posts }) {
           >
             Access Control Page
           </button>
+          
         </div>
       )}
 
