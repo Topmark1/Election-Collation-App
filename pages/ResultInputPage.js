@@ -5,7 +5,7 @@ import {
   UserGroupIcon,
   HeartIcon,
   PaperAirplaneIcon,
-  Bars4Icon,
+  Bars4Icon, 
 } from "@heroicons/react/24/outline";
 import { HomeIcon } from "@heroicons/react/24/solid";
 import Head from "next/head";
@@ -15,19 +15,20 @@ import { useState } from "react";
 export default function Home({ posts }) {
   const [user, Setuser] = useState("");
   const [phrase, Checkphrase] = useState("");
+  const [phrase1, Checkphrase1] = useState(false);
   return (
     <>
-      {phrase == "dragonfire" ? (
+      {(phrase == "dragonfire")&&(phrase1) ? (
         ""
       ) : (
-        <div className="ml-5 mt-20 flex flex-col">
-          <input
+        <div className="ml-24 mt-20 flex flex-col">
+          {/* <input
             className="border border-black focus:ring-black focus:border-2 mt-10 mb-10 w-96 p-2 rounded-full h-12 bg-gray-100 flex-grow sm:px-5 focus:outline-none text-xs sm:text-xl"
             placeholder="username"
             onChange={(e) => {
               Setuser(e.target.value);
             }}
-          />
+          /> */}
           <input
             className="border border-black focus:ring-black focus:border-2 mt-2 mb-5 w-96 p-2 rounded-full h-12 bg-gray-100 flex-grow sm:px-5 focus:outline-none text-xs sm:text-xl"
             placeholder="password"
@@ -35,12 +36,21 @@ export default function Home({ posts }) {
               Checkphrase(e.target.value);
             }}
           />
+      <button
+            className="border text-white font-bold  focus:ring-black focus:border-2 mt-2 mb-5 w-96 p-2 rounded-full h-12 bg-blue-500 hover:bg-blue-700 flex-grow sm:px-5 focus:outline-none text-xs sm:text-xl"
+            placeholder="password"
+              onClick={() => {
+                Checkphrase1((a)=>!a);
+            }}
+          >
+            Access Control Page
+          </button>
         </div>
       )}
 
       {/*//////////////After correct input phrase*/}
 
-      {phrase == "dragonfire" ? (
+      {(phrase == "dragonfire") &&(phrase1)? (
         <div className="bg-gray-50 overflow-y-scroll scrollbar-hide ml-1 mr-1">
           <Head>
             <title>ElectionPage</title>
@@ -87,9 +97,9 @@ export default function Home({ posts }) {
           <ElectionPage />
         </div>
       ) : (
-        <div className="m-5 text-blue-700 border p-3 bg-gray-100 rounded-full w-96 h-16">
-          Input correct Username and Password to Access Control Page
-        </div>
+        phrase1?(<div className="m-2 ml-24 text-red-700 text-bold border p-3 rounded-full w-96 h-16">
+          Input correct Access Code to access Control Page
+        </div>):''
       )}
     </>
   );
