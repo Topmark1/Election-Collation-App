@@ -14394,10844 +14394,10846 @@ const Data = {
                 }
             ]
         },
-        {
-            "wardNo": 6,
-            "wardName": "IKOSI KETU/MILE I2/AGILITI/MAIDAN",
-            "pollingUnits": [
-                {
-                    "PU_No": "001",
-                    "PU_Name": "ADOMIKA ALUKO ST. IN FRONT OF HOUSE NO. 1",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "002",
-                    "PU_Name": "JUNCTION OF AINA ROAD IN FRONT OF HOUSE 26",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "003",
-                    "PU_Name": "AINA ROAD, IN FRONT OF HOUSE NO. 25",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "004",
-                    "PU_Name": "AINA ROAD, IN FRONT OF HOUSE NO. 40",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "005",
-                    "PU_Name": "AINA ROAD, IN FRONT OF HOUSE NO. 62",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "006",
-                    "PU_Name": "OMO OBANTA ST. IN FRONT OF HOUSE NO. 4",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "007",
-                    "PU_Name": "OMO OBANTA ST. IN FRONT OF HOUSE NO. 2",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "008",
-                    "PU_Name": "MAIDAN PRIMARY SCHOOL",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "009",
-                    "PU_Name": "AKOROHUNFAYO ST. IN FRONT OF HOUSE NO. 15",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "010",
-                    "PU_Name": "AFINJUOMO ST. IN FRONT OF HOUSE NO. 7",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "011",
-                    "PU_Name": "AFINJUOMO ST. IN FRONT OF HOUSE NO. 24",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "012",
-                    "PU_Name": "ONIYANRIN ST. IN FRONT OF HOUSE NO. 17",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "013",
-                    "PU_Name": "ONIYANRIN ST. IN FRONT OF HOUSE NO. 34",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "014",
-                    "PU_Name": "ILAJE ST. IN FRONT OF HOUSE NO. 19",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "015",
-                    "PU_Name": "JUNCTION OF OLOWOLAGBA ST./SADIKU ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "016",
-                    "PU_Name": "MAIDAN ROAD, IN FRONT OF HOUSE NO. 4",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "017",
-                    "PU_Name": "MAIDAN ROAD, IN FRONT OF HOUSE NO. 20",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "018",
-                    "PU_Name": "MAIDAN ROAD, IN FRONT OF HOUSE NO. 34",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "019",
-                    "PU_Name": "JUNCTION OF MAIDAN ROAD/FATOKI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "020",
-                    "PU_Name": "ALH. AYISATU ST, IN FRONT OF HOUSE NO 14",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "021",
-                    "PU_Name": "JUNCTION OF ALH. AYISATU ST./BADIRU ST. II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "022",
-                    "PU_Name": "DADA ST. IN FRONT OF HOUSE NO. 2",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "023",
-                    "PU_Name": "DADA ST. IN FRONT OF HOUSE NO. 27",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "024",
-                    "PU_Name": "DADA ST. IN FRONT OF HOUSE NO. 2",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "025",
-                    "PU_Name": "DADA ST. IN FRONT OF HOUSE NO. 12",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "026",
-                    "PU_Name": "ADEBIMPE ST. IN FRONT OF HOUSE NO. 20",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "027",
-                    "PU_Name": "JUNCTION OF ADEBIMPE ST./AJIBOLA COMPOUND",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "028",
-                    "PU_Name": "JUNCTION OF OMOJUWA ST./QUADRI ST. I",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "029",
-                    "PU_Name": "JUNCTION OF OMOJUWA ST./QUADRI ST. II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "030",
-                    "PU_Name": "ONDUN ST. IN FRONT OF HOUSE NO. 4",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "031",
-                    "PU_Name": "ODUNTAN ST. IN FRONT OF HOUSE NO. 51",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "032",
-                    "PU_Name": "OLUWALOGBON PRY. SCHOOL, ANIBABA ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "033",
-                    "PU_Name": "JUNCTION OF SARUMI ST./CHURCH AVENUE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "034",
-                    "PU_Name": "AIYEDERE AJIBOLA HIGH SCHOOL I",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "035",
-                    "PU_Name": "AIYEDERE AJIBOLA HIGH SCHOOL II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "036",
-                    "PU_Name": "JUNCTION OF DANIEL MAKINDE ST./OLORUNOSEBI ST. I",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "037",
-                    "PU_Name": "JUNCTION OF DANIEL MAKINDE ST./OLORUNOSEBI ST. II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "038",
-                    "PU_Name": "JUNCTION OF OLUWALOGBON ST./ONDUN ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "039",
-                    "PU_Name": "JUNCTION OF DAIRO ST./AJEFEMI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "040",
-                    "PU_Name": "OYEDEJI ST. IN FRONT OF HOUSE NO. 18",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "041",
-                    "PU_Name": "OLALEYE STR, IN FRONT OF HOUSE NO 14.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "042",
-                    "PU_Name": "OLATUNJI IGE ST. IN FRONT OF HOUSE NO. 2 II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "043",
-                    "PU_Name": "OLATUNJI IGE ST. IN FRONT OF HOUSE NO. 18",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "044",
-                    "PU_Name": "KAYODE ARIKAWE ST. IN FRONT OF HOUSE NO. 20",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "045",
-                    "PU_Name": "OYERO BALOGUN ST. IN FRONT OF HOUSE NO. 12",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "046",
-                    "PU_Name": "IKOSI HEALTH CENTRE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "047",
-                    "PU_Name": "JUNCTION OF IKOSI ROAD/OYERO BALOGUN ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "048",
-                    "PU_Name": "IKOSI HIGH SCHOOL I",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "049",
-                    "PU_Name": "IKOSI HIGH SCHOOL II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "050",
-                    "PU_Name": "OWODUNNI ST. IN FRONT OF HOUSE NO. 4",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "051",
-                    "PU_Name": "OWODUNNI ST. IN FRONT OF HOUSE NO. 22",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "052",
-                    "PU_Name": "OGUNLANA ST. IN FRONT OF HOUSE NO. 2",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "053",
-                    "PU_Name": "OGUNLANA ST. IN FRONT OF HOUSE NO. 10",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "054",
-                    "PU_Name": "OLADOGBA ST. IN FRONT OF HOUSE NO. 16",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "055",
-                    "PU_Name": "OLADOGBA ST. IN FRONT OF HOUSE NO. 23",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "056",
-                    "PU_Name": "JUNCTION OF OLUYOMBO ST./EKITI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "057",
-                    "PU_Name": "OLUYOMBO ST. IN FRONT OF HOUSE NO. 2",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "058",
-                    "PU_Name": "JUNCTION OF ADEYEMI ST./TAIWO ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "059",
-                    "PU_Name": "IKOSI ROAD, IN FRONT OF HOUSE NO. 5",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "060",
-                    "PU_Name": "OKUNOWO ST. IN FRONT OF HOUSE NO. 16",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "061",
-                    "PU_Name": "LOVE ALL ST. IN FRONT OF HOUSE NO. 8",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "062",
-                    "PU_Name": "TAIKE ST. IN FRONT OF HOUSE NO. 5",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "063",
-                    "PU_Name": "TAIKE ST. IN FRONT OF HOUSE NO. 20",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "064",
-                    "PU_Name": "SIFAU CLOSE, IN FRONT OF HOUSE NO. 14",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "065",
-                    "PU_Name": "SIFAU CLOSE, IN FRONT OF HOUSE NO. 18",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "066",
-                    "PU_Name": "ADEKUNLE SMITH ST. IN FRONT OF HOUSE NO. 2",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "067",
-                    "PU_Name": "ADEKUNLE SMITH ST. IN FRONT OF HOUSE NO. 8",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "068",
-                    "PU_Name": "ALADELOLA ST. BETWEEN HOUSE NOS. 10 & 12",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "069",
-                    "PU_Name": "ALADELOLA ST. BETWEEN HOUSE NOS. 49 & 51",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "070",
-                    "PU_Name": "ALADELOLA ST. BETWEEN HOUSE NOS. 102 & 104",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "071",
-                    "PU_Name": "JUNCTION OF ADEMOLA OSINOWO ST,/KOLAYEMI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "072",
-                    "PU_Name": "JUNCTION OF OGUNKOYA ST./DELE OGUNWA ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "073",
-                    "PU_Name": "AKINOLA ST. IN FRONT OF HOUSE NO. 14",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "074",
-                    "PU_Name": "IBE ODUGUWA CLOSE, IN FRONT OF HOUSE NO. 12",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "075",
-                    "PU_Name": "JUNCTION OF JIMOH BALOGUN ST./ABENI CLOSE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "076",
-                    "PU_Name": "JIMOH BALOGUN ST. IN FRONT OF HOUSE NO. 15",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "077",
-                    "PU_Name": "SONAIKE ST. IN FRONT OF HOUSE NO. 20",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "078",
-                    "PU_Name": "ADEYIGA ST. IN FRONT OF HOUSE NO. 18",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "079",
-                    "PU_Name": "MOSUDI ST. IN FRONT OF HOUSE NO. 4",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "080",
-                    "PU_Name": "MOSUDI ST. IN FRONT OF HOUSE NO. 19",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "081",
-                    "PU_Name": "YAKUBU ST. IN FRONT OF HOUSE NO. 18",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "082",
-                    "PU_Name": "HASSAN ST. IN FRONT OF HOUSE NO. 35",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "083",
-                    "PU_Name": "HASSAN ST. IN FRONT OF HOUSE NO. 39",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "084",
-                    "PU_Name": "ARAROMI IWO ST. IN FRONT OF HOUSE NO. 18",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "085",
-                    "PU_Name": "IKORODU ROAD, IN FRONT OF HOUSE NO. 1, NEAR POLICE STATION, KETU",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "086",
-                    "PU_Name": "JUNCTION OF IKOSI ROAD/IKORODU ROAD",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "087",
-                    "PU_Name": "ALABA MARKET (BY ENTRANCE)",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "088",
-                    "PU_Name": "KOLA ADEYEYE ST. IN FRONT OF HOUSE NO. 13",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "089",
-                    "PU_Name": "ADEYEYE ST. IN FRONT OF HOUSE NO. 18",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "090",
-                    "PU_Name": "OLUWALOGBON ST. IN FRONT OF HOUSE NO. 22",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "091",
-                    "PU_Name": "KOSOFE MARKET (BY THE ENTRANCE) I",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "092",
-                    "PU_Name": "KOSOFE MARKET II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "093",
-                    "PU_Name": "KOSOFE MARKET (INSIDE) III",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "094",
-                    "PU_Name": "OGUNKOYA ST. IN FRONT OF HOUSE NO. 12",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "095",
-                    "PU_Name": "ARAROMI IWO ST. IN FRONT OF HOUSE NO. 2",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "096",
-                    "PU_Name": "OYERO BALOGUN ST. IN FRONT OF HOUSE NO. 3",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "097",
-                    "PU_Name": "MAIDAN ROAD, IN FRONT OF HOUSE NO. 48",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "098",
-                    "PU_Name": "JUNCTION OF OKUNNOWO ST./OKETOYINBO ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "099",
-                    "PU_Name": "OKETOYINBO ST. IN FRONT OF HOUSE NO. 15",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "100",
-                    "PU_Name": "OKETOYINBO ST. IN FRONT OF HOUSE NO. 19",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "101",
-                    "PU_Name": "JUNCTION OF OLUYOMBO ST./ELEGBELEYE ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "102",
-                    "PU_Name": "ADEBIMPE ST. IN FRONT OF HOUSE NO. 3",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "103",
-                    "PU_Name": "JUNCTION OF AINA ROAD/AGILITI ROAD",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "104",
-                    "PU_Name": "JUNCTION OF OMOJUWA ST BY OLANREWAJU.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "105",
-                    "PU_Name": "JUNCTION OF OMOJUWA ST./QUADRI ST. II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "106",
-                    "PU_Name": "AKINOLA ST. IN FRONT OF HOUSE NO. 16",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "107",
-                    "PU_Name": "IN FRONT OF OGUNFADEKE ST",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "108",
-                    "PU_Name": "MAGODO RD, HOUSE 49/51, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "109",
-                    "PU_Name": "MAGODO RD, HOUSE 53, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "110",
-                    "PU_Name": "FEMI ODUTAYO ST, HOUSE 4, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "111",
-                    "PU_Name": "AINA RD HOUSE 15, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "112",
-                    "PU_Name": "AINA RD., HOUSE 13, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "113",
-                    "PU_Name": "9 ADEGBOYEGA STR, IKOSI KETU",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "114",
-                    "PU_Name": "IBRAHIM SANUSI HOUSE 13, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "115",
-                    "PU_Name": "APOSTLE AFINJUOMO ST, HOUSE 16, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "116",
-                    "PU_Name": "APOSTLE AFINJUOMO ST, HOUSE 4",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "117",
-                    "PU_Name": "ONIYARIN ST HOUSE 19",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "118",
-                    "PU_Name": "IBRAHIM SANUSI ST HOUSE 2",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "119",
-                    "PU_Name": "MAIDAN RD HOUSE 2",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "120",
-                    "PU_Name": "FASANMI STREET, HOUSE 10",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "121",
-                    "PU_Name": "MAIDAN RD HOUSE 22",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "122",
-                    "PU_Name": "MAIDAN RD HOUSE 28 MILE 12",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "123",
-                    "PU_Name": "FATOKI ST HOUSE 8",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "124",
-                    "PU_Name": "FATOKI ST, HOUSE 1",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "125",
-                    "PU_Name": "MARTINS STR, HOUSE 26",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "126",
-                    "PU_Name": "ALHAJA AYISATU ST HOUSE 13",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "127",
-                    "PU_Name": "DADA ST HOUSE 42, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "128",
-                    "PU_Name": "DADA ST HOUSE 16",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "129",
-                    "PU_Name": "ADEBIMPE ST HOUSE 12",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "130",
-                    "PU_Name": "IKORODU RD HOUSE 571 BY BAALE HOUSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "131",
-                    "PU_Name": "OMOJUWA ST HOUSE 7",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "132",
-                    "PU_Name": "ODUNTAN ST HOUSE 5",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "133",
-                    "PU_Name": "SARUMI ST, HOUSE 3",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "134",
-                    "PU_Name": "MARTIN ST, HOUSE 28",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "135",
-                    "PU_Name": "SAMUEL ANIBABA STR HOUSE 24",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "136",
-                    "PU_Name": "OLORUNSEBI STREET, HOUSE 26 IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "137",
-                    "PU_Name": "OLORUNSEBI STREET, HOUSE 10 IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "138",
-                    "PU_Name": "OLUWALOGBON ST, HOUSE 18, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "139",
-                    "PU_Name": "2, FASANMI STR, IKOSI KETU",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "140",
-                    "PU_Name": "27, OGUNLANA STR, IKOSI KETU",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "141",
-                    "PU_Name": "OLATUNJI IGE, HOUSE 8",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "142",
-                    "PU_Name": "OLATUNJI IGE STREET, HOUSE 24",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "143",
-                    "PU_Name": "OLATUNJI IGE ST, HOUSE 8, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "144",
-                    "PU_Name": "IKORODU RD, HOUSE 459",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "145",
-                    "PU_Name": "INSIDE IKOSI MARKET, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "146",
-                    "PU_Name": "IKOSI PRIMARY SCHOOL",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "147",
-                    "PU_Name": "BALOGUN OYERO STREET HOUSE 23 IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "148",
-                    "PU_Name": "BELLO FOLAWEWO CRE,BLK 9 OPP JEHOVAH WITNESS",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "149",
-                    "PU_Name": "ARIKAWE STREET, HOUSE 29",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "150",
-                    "PU_Name": "IKOSI HIGH SCHOOL II",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "151",
-                    "PU_Name": "OWODUNNI STREET, HOUSE 14, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "152",
-                    "PU_Name": "IKOSI RD/OLADELE STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "153",
-                    "PU_Name": "OLUFUNMILAYO/OGUNBO ST. JUNC.",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "154",
-                    "PU_Name": "AYANBADEJO ST. HOUSE 3",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "155",
-                    "PU_Name": "ADEYEMOYE STREET HOUSE 3/5 IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "156",
-                    "PU_Name": "IKOSI STRE, HOUSE 8",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "157",
-                    "PU_Name": "FAPOUNDA CLOSE BEHIND BAKARE CLOSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "158",
-                    "PU_Name": "IKOSI RD, HOUSE 14B, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "159",
-                    "PU_Name": "IKOSI RD, HOUSE 36, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "160",
-                    "PU_Name": "BADEJOKO ST, HOUSE 3, IKOSI BY CAC CHURCH",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "161",
-                    "PU_Name": "OMOLOLA ST/ADEMOLA OSHINOWO ST",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "162",
-                    "PU_Name": "SALAWE ST/TAIWO & KEHINDE ONIKOSI RD",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "163",
-                    "PU_Name": "5 IDAMA CL/ADERIBIGBE STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "164",
-                    "PU_Name": "ALLI LANE, HOUSE 2, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "165",
-                    "PU_Name": "KOLAYEMI/ALADELOLA STR JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "166",
-                    "PU_Name": "COMMUNITY LANE/ALADELOLA JUNC.",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "167",
-                    "PU_Name": "OLUYOMBO/DELE OKUWA",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "168",
-                    "PU_Name": "AKINOLA ST/ALLI LANE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "169",
-                    "PU_Name": "IKOSI RD HOUSE 52 IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "170",
-                    "PU_Name": "JIMOH BALOGUN ST, HOUSE 2 IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "171",
-                    "PU_Name": "OLANIPEKUN ST, HOUSE 5 OFF JIMOH BALOGUN",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "172",
-                    "PU_Name": "SHONAIKE STREET, HOUSE 2 IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "173",
-                    "PU_Name": "JAMIU BALOGUN ST HOUSE 5",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "174",
-                    "PU_Name": "YAKUBU LANE HOUSE 44. IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "175",
-                    "PU_Name": "HASSAN ST HOUSE 19. IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "176",
-                    "PU_Name": "CHISCO PARK/FUTAI CLOSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "177",
-                    "PU_Name": "INFRONT OF KETU POLICE STATION(KETU IKOSI)",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "178",
-                    "PU_Name": "IKOSI RD, HOUSE 2",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "179",
-                    "PU_Name": "IKORODU RD,HOUSE 604 MILE 12 (ALABA MARKET INSIDE )",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "180",
-                    "PU_Name": "ADEYEYE ST HOUSE 4/NURUDEEN HOUSE 11",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "181",
-                    "PU_Name": "OLUWALOGBON ST,HOUSE 29 IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "182",
-                    "PU_Name": "IKORODU RD, HOUSE 604 MILE 12 (INSIDE KOSOFE INTL. PARK II DOWN)",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "183",
-                    "PU_Name": "FATOKI ST, HOUSE 18, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "184",
-                    "PU_Name": "SHUKURA YAM MARKET OFFICE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "185",
-                    "PU_Name": "OLANREWAJU ST HOUSE 10",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "186",
-                    "PU_Name": "AIYEGBEMI COMMUNITY HALL",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "187",
-                    "PU_Name": "BALOGUN OYERO ST HOUSE 15 IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "188",
-                    "PU_Name": "AKINPELUMI/SEGUN SALAU",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "189",
-                    "PU_Name": "OKETOYINBO ST, HOUSE 2",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "190",
-                    "PU_Name": "ADEBIMPE ST HOUSE 11, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "191",
-                    "PU_Name": "14 AINA RD HOUSE 14 IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "192",
-                    "PU_Name": "OMOJUWA ST HOUSE 5, IKOSI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
+        
+    {
+        "wardNo": 6,
+        "wardName": "IKOSI KETU/MILE I2/AGILITI/MAIDAN",
+        "pollingUnits": [
+            {
+                "PU_No": "001",
+                "PU_Name": "ADOMIKA ALUKO ST. IN FRONT OF HOUSE NO. 1",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
                     }
                 }
-            ]
-        },
-        {
-            "wardNo": 7,
-            "wardName": "ISHERI‐OLOWO‐IRA/SHANGISHA/MAGODO PHASE I & II",
-            "pollingUnits": [
-                {
-                    "PU_No": "001",
-                    "PU_Name": "JUNCTION OF ASSOCIATION AVENUE/ADEYEMI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "002",
-                    "PU_Name": "ASSOCIATION AVENUE, IN FRONT OF HOUSE NO. 10",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "003",
-                    "PU_Name": "OGUNNAIKE AVENUE IN FRONT OF HOUSE 10.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "004",
-                    "PU_Name": "YAKUBU ST. IN FRONT OF HOUSE NO. 32",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "005",
-                    "PU_Name": "OMONIYI ST. IN FRONT OF HOUSE NO. 10",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "006",
-                    "PU_Name": "OLATUNJI OLADIPO ST. IN FRONT OF HOUSE NO. 4",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "007",
-                    "PU_Name": "JUNCTION OF KASUMU STREET/YETUNDE JOSHUA AVENUE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "008",
-                    "PU_Name": "JUNCTION OF ONIBEJU ST./MUTAIRU ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "009",
-                    "PU_Name": "MOSES IGUDOALA ST. IN FRONT OF HOUSE NO. 4",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "010",
-                    "PU_Name": "JUNCTION OF OLABISI ST./OLOLADE AVENUE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "011",
-                    "PU_Name": "ZIKA USIPO ST. IN FRONT OF HOUSE NO. 1",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "012",
-                    "PU_Name": "ALH. BASHEER SHITTU AVE, IN FRONT OF HOUSE NO 70.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "013",
-                    "PU_Name": "ADEKUNLE ADEBANJO STR, IN FRONT OF HOUSE NO. 27",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "014",
-                    "PU_Name": "OPEN SPACE BESIDE MAGODO/SHANGISHA POLICE POST",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "015",
-                    "PU_Name": "JUNCTION OF KAYODE TAIWO ST./ADEBIYI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "016",
-                    "PU_Name": "BOY'S APPROVE SCHOOL COMPOUND, ISHERI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "017",
-                    "PU_Name": "JUNCTION OF AIYEDUN ST./SOYEBI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "018",
-                    "PU_Name": "SEHINDEMI ST. IN FRONT OF HOUSE NO. 18",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "019",
-                    "PU_Name": "AKINWUNMI ST. IN FRONT OF HOUSE NO. 15",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "020",
-                    "PU_Name": "FELICIA OKE ST. IN FRONT OF HOUSE NO. 20",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "021",
-                    "PU_Name": "JUNCTION OF ADEYEMI ST./OWOKADE ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "022",
-                    "PU_Name": "FADEYI ST. IN FRONT OF HOUSE NO. 24",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "023",
-                    "PU_Name": "MOSES OGUNGBEYE ST. IN FRONT OF HOUSE NO. 13",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "024",
-                    "PU_Name": "ALFRED OGUNYEMI ST. IN FRONT OF HOUSE NO 6",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "025",
-                    "PU_Name": "OLOWO-IRA ORY. SCHOOL",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "026",
-                    "PU_Name": "JUNCTION OF OLOWO-IRA ROAD/GEORGE ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "027",
-                    "PU_Name": "GEORGE ST. IN FRONT OF HOUSE NO. 26",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "028",
-                    "PU_Name": "OLATUNDE ATIBA STREET IN FRONT OF HOUSE 13",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "029",
-                    "PU_Name": "ADEGBOYEGA ST. IN FRONT OF HOUSE NO. 4",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "030",
-                    "PU_Name": "ADETUBERU ST. IN FRONT OF HOUSE NO. 18",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "031",
-                    "PU_Name": "JUNCTION OF ISHERI ROAD/ADEJOKUN ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "032",
-                    "PU_Name": "AGBEDINA ST. IN FRONT OF HOUSE NO. 2 1",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "033",
-                    "PU_Name": "AGBEDINA ST. IN FRONT OF HOUSE NO. 2 2",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "034",
-                    "PU_Name": "WOMEN TRAINING CENTRE, AJIODE ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "035",
-                    "PU_Name": "UNITED ANGLICAN CHURCH SCHOOL",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "036",
-                    "PU_Name": "AJEGUNLE ST. IN FRONT OF HOUSE NO. 15",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "037",
-                    "PU_Name": "JUNCTION OF MOSALASHI ST./AGO IJAIYE ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "038",
-                    "PU_Name": "COMMUNITY HALL, ISHERI OKE I",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "039",
-                    "PU_Name": "COMMUNITY HALL, ISHERI OKE II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "040",
-                    "PU_Name": "APENA ST. IN FRONT OF HOUSE NO. 12",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "041",
-                    "PU_Name": "KAREEM ST. IN FRONT OF HOUSE NO. 16",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "042",
-                    "PU_Name": "SALAKO ST. IN FRONT OF HOUSE NO. 6",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "043",
-                    "PU_Name": "ISHERI GRAMMAR SCH., ISHERI",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "044",
-                    "PU_Name": "JUNCTION OF KOLAWOLE ST./ADEBIYI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "045",
-                    "PU_Name": "WILMER ST. IN FRONT OF HOUSE NO. 7",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "046",
-                    "PU_Name": "WILMER ST. IN FRONT OF HOUSE NO. 22",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "047",
-                    "PU_Name": "IN FRONT OF MAGODO COMMUNITY VIEWING CENTRE (EKO GBEMI B/STOP) MAGODO PHASE II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "048",
-                    "PU_Name": "IN FRONT OF B.K. LAWAL CLOSE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "049",
-                    "PU_Name": "SOMIDE ODUJINRIN AVENUE, IN FRONT OF HOUSE NO. 15",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "050",
-                    "PU_Name": "BY THE GATE OF TOKUNBO MACAULAY ST. ON EMMANUEL KESHI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "051",
-                    "PU_Name": "ENTRANCE OF UNILAG ESTATE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "052",
-                    "PU_Name": "JUNCTION OF SOWANDE ST./REV. EMMANUEL ADUBIFA AVENUE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "053",
-                    "PU_Name": "OPEN SPACE BETWEEN FUNSO WILLIAMS ST./ADEFEMI TAIRE ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "054",
-                    "PU_Name": "ALHAJI LATEEF BISHI ST., BETWEEN HOUSE NOS. 7 & 9",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "055",
-                    "PU_Name": "JUNCTION OF ONIBEJU ST./MUTAIRU ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "056",
-                    "PU_Name": "KASUNMU JUNC. BY THE TRANSFORMER",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "057",
-                    "PU_Name": "53, ASSOCIATION AVENUE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "058",
-                    "PU_Name": "7, OLUWAKEMI STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "059",
-                    "PU_Name": "21, OMONIYI STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "060",
-                    "PU_Name": "OSIKOMAYA STREET GATE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "061",
-                    "PU_Name": "12, IREPODUN STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "062",
-                    "PU_Name": "2, OLABISI STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "063",
-                    "PU_Name": "YOMI KUYE/OLOLADE JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "064",
-                    "PU_Name": "OGUNNAIKE/ADEKUNLE JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "065",
-                    "PU_Name": "8, ALH. GBINDIN NINUOLA IDOWU STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "066",
-                    "PU_Name": "23, ALH. ASAFA STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "067",
-                    "PU_Name": "12, RAMAT ALONGE STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "068",
-                    "PU_Name": "JUNC. OF MAIYE OGUNDANA/ADEKUNLE BANJO AVENUE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "069",
-                    "PU_Name": "ROBERT STREET/MORADEUN ALABI CRESCENT JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "070",
-                    "PU_Name": "DIPO AWOLESI/ADEKUNLE BANJO JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "071",
-                    "PU_Name": "14, JAIYE OYEDOTUN STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "072",
-                    "PU_Name": "33, JAIYE OYEDOTUN STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "073",
-                    "PU_Name": "JUNCTION OF KAYODE TAIWO OPPOSITE PSSDC",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "074",
-                    "PU_Name": "RIVER BANK ESTATE MAIN GATE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "075",
-                    "PU_Name": "OPEN FIELD BESIDE CHANNELS TV",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "076",
-                    "PU_Name": "ISHERI NORTH LSDPC ESTATE GATE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "077",
-                    "PU_Name": "ISHERI NORTH GRA ESTATE GATE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "078",
-                    "PU_Name": "OGUNJIRIN STREET/ADEBO ADEMEHIN JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "079",
-                    "PU_Name": "ADIGUN FANBODE STREET BY SECURITY POST",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "080",
-                    "PU_Name": "PRINCE JAMES ADEFEYISAN STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "081",
-                    "PU_Name": "1, FELICIA OKE STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "082",
-                    "PU_Name": "2, OWOKADE/SANYAOLU JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "083",
-                    "PU_Name": "7, OLATUNDE SULE STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "084",
-                    "PU_Name": "4, MOSES OGUNGBEYE STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "085",
-                    "PU_Name": "RAFIU AJIBADE CLOSE/ FASHE STREET JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "086",
-                    "PU_Name": "THOMAS ADEBOYE STREET/ OREMEJI STREET JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "087",
-                    "PU_Name": "6,ALI STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "088",
-                    "PU_Name": "OLOWORA RD/SOLOMON AVENUE JUNC.",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "089",
-                    "PU_Name": "5, ADEBAYO STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "090",
-                    "PU_Name": "ALH. ADEGBOYEGA/ABIOLA JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "091",
-                    "PU_Name": "ISAAC OMOLE/ADETUBERU STREET JUNC.",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "092",
-                    "PU_Name": "32, OLD OLOWORA RD, IN FRONT OF AWOSIKE HOUSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "093",
-                    "PU_Name": "9, OKIKI PUSU STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "094",
-                    "PU_Name": "15, BANKOLE STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "095",
-                    "PU_Name": "10, SANGOREMI STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "096",
-                    "PU_Name": "ISHERI PRIMARY SCHOOL II(INSIDE ANGLICAN SCHOOL)",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "097",
-                    "PU_Name": "56 OGUN RIVER ROAD IN FRONT OF OSHORUN HOUSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "098",
-                    "PU_Name": "3, BANKOLE ST/ADEBOLA JUBRIL CLOSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "099",
-                    "PU_Name": "5, OGUNBIYI CRESCENT ISHERI OKE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "100",
-                    "PU_Name": "99, OGUN RIVER RD",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "101",
-                    "PU_Name": "40, KAREEM STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "102",
-                    "PU_Name": "JAMIU OLOTO/FANOIKI STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "103",
-                    "PU_Name": "GATEWAY ESTATE GATE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "104",
-                    "PU_Name": "PLOT 2, ABIODUN BERO STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "105",
-                    "PU_Name": "ISHERI HEALTH CENTRE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "106",
-                    "PU_Name": "13,WILMER STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "107",
-                    "PU_Name": "8, ADEBISI OKUWA STREET/AKIN TIJANI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "108",
-                    "PU_Name": "20, SALAMI OLONODE STREET ISHERI",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "109",
-                    "PU_Name": "41, JIMOH SHOBOWALE STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "110",
-                    "PU_Name": "GBIGBI STR/UNIC HIGH SCH JUNC.",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "111",
-                    "PU_Name": "TAWA ALIYU BELLO STR/OLUWATOYIN ELRAMO STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "112",
-                    "PU_Name": "716 AINA AKINGBOLA STR BY THE ESTATE GATE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "113",
-                    "PU_Name": "25, ADETORO ADELAJA STR.",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "114",
-                    "PU_Name": "75,EMMANUEL KESHI STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "115",
-                    "PU_Name": "IN FRONT OF PARKER CLOSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "116",
-                    "PU_Name": "14, ADETORO ADELAJA STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "117",
-                    "PU_Name": "ADETORO ADELAJA/WALE ADELEKAN STREET JUNC.",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "118",
-                    "PU_Name": "2, BABS OSIBO STREET, MAGODO PHASE II",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "119",
-                    "PU_Name": "SOCIAL ROAD OPP COUNCIL CRESCENT JUNC.",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "120",
-                    "PU_Name": "9, ENGINEERING CLOSE OPP. LAW CLOSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "121",
-                    "PU_Name": "JUNC. OF OLOWORA/ODUGIRIN",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "122",
-                    "PU_Name": "AINA AKINGBOLA/OTEDOLA STR JUNC",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "123",
-                    "PU_Name": "IBRAHIM BALOGUN STR IN FRONT OF CHIEF ODUMOSU HOUSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "124",
-                    "PU_Name": "42, OSHORUN STREET",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
+            },
+            {
+                "PU_No": "002",
+                "PU_Name": "JUNCTION OF AINA ROAD IN FRONT OF HOUSE 26",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
                     }
                 }
-            ]
-        },
-        {
-            "wardNo": 8,
-            "wardName": "AGBOYI I",
-            "pollingUnits": [
-                {
-                    "PU_No": "001",
-                    "PU_Name": "AGBOYI PRY. SCHOOL I",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "002",
-                    "PU_Name": "AGBOYI PRY. SCHOOL II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "003",
-                    "PU_Name": "ITA OLOKUN COMPOUND (RIGHT HANDSIDE)",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "004",
-                    "PU_Name": "ITA OLOKUN COMPOUND (LEFT HANDSIDE)",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "005",
-                    "PU_Name": "AGBOYI HEALTH CENTRE I",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "006",
-                    "PU_Name": "AGBOYI HEALTH CENTRE II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
+            },
+            {
+                "PU_No": "003",
+                "PU_Name": "AINA ROAD, IN FRONT OF HOUSE NO. 25",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
                     }
                 }
-            ]
-        },
-        {
-            "wardNo": 9,
-            "wardName": "AGBOYI II",
-            "pollingUnits": [
-                {
-                    "PU_No": "001",
-                    "PU_Name": "ITA BAALE, AGBOYI II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "002",
-                    "PU_Name": "ITA BAALE, AGBOYI III",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "003",
-                    "PU_Name": "ITA BAALE, AGBOYI II",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "004",
-                    "PU_Name": "AGBOYI PRY. SCHOOL",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "005",
-                    "PU_Name": "OPEN SPACE NEAR BAALE'S COMPOUND",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
+            },
+            {
+                "PU_No": "004",
+                "PU_Name": "AINA ROAD, IN FRONT OF HOUSE NO. 40",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
                     }
                 }
-            ]
-        },
-        {
-            "wardNo": 10,
-            "wardName": "OWODE ONIRIN/AJEGUNLE/ODO‐OGUN",
-            "pollingUnits": [
-                {
-                    "PU_No": "001",
-                    "PU_Name": "ESINLOKUN ST., BETWEEN HOUSE NOS. 1 & 3",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "002",
-                    "PU_Name": "IN FRONT OF SHONIBARE COMPOUND",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "003",
-                    "PU_Name": "ZION ROAD, IN FRONT OF HOUSE NO. 1",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "004",
-                    "PU_Name": "ZION ROAD, IN FRONT OF HOUSE NO. 21",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "005",
-                    "PU_Name": "ZION ROAD, IN FRONT OF HOUSE NO. 10",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "006",
-                    "PU_Name": "IRAWO ROAD, IN FRONT OF HOUSE NO. 10",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "007",
-                    "PU_Name": "IRAWO ROAD, IN FRONT OF HOUSE NO. 20",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "008",
-                    "PU_Name": "ANGLICAN PRIMARY SCH., ODO-OGUN",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "009",
-                    "PU_Name": "ESOMOJUMI CLOSE, IN FRONT OF HOUSE NO. 7",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "010",
-                    "PU_Name": "OLAKUNLE ST. IN FRONT OF HOUSE NOS. 9 & 11",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "011",
-                    "PU_Name": "LAWAL ST. BETWEEN HOUSE NOS. 6 & 8",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "012",
-                    "PU_Name": "RAJI BALOGUN ST. IN FRONT OF HOUSE NO. 1",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "013",
-                    "PU_Name": "JUNCTION OF THOMAS LANIYAN ST./ASSOCIATION AVENUE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "014",
-                    "PU_Name": "JUNCTION OF THOMAS LANIYAN ST./SONUBI ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "015",
-                    "PU_Name": "JUNCTION OF THOMAS LANIYAN ST./ARIYO ST.",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "016",
-                    "PU_Name": "OLORUNSOGO ST. IN FRONT OF HOUSE NO. 10",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "017",
-                    "PU_Name": "BAALE CRESCENT, IN FRONT OF HOUSE NO. 3",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "018",
-                    "PU_Name": "BAALE CRESCENT, IN FRONT OF HOUSE NO. 9",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "019",
-                    "PU_Name": "BAALE CRESCENT, IN FRONT OF HOUSE NO. 20",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "020",
-                    "PU_Name": "IKORODU ROAD, BETWEEN HOUSE NOS. 44 & 46",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "021",
-                    "PU_Name": "RASCO ST., IN FRONT OF HOUSE NO. 1",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "022",
-                    "PU_Name": "OPEN SPACE WITHIN IDERA VILLAGE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "023",
-                    "PU_Name": "OPEN SPACE WITHIN KIOKIO VILLAGE",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "024",
-                    "PU_Name": "OTENUBI OGIDAN ST. BETWEEN HOUSE NOS. 1 & 3",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "025",
-                    "PU_Name": "VICTORIA ANIBABA ST., IN FRONT OF HOUSE NO. 2",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "026",
-                    "PU_Name": "OLALUSI ST., IN FRONT OF HOUSE NO. 10",
-                    "Remark": "EXISTING PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "027",
-                    "PU_Name": "4/6 ESHINLOKUN STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "028",
-                    "PU_Name": "IN FRONT OF MOSQUE, SHONIBARE COMPOUND",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "029",
-                    "PU_Name": "7, ZION STR, AJEGUNLE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "030",
-                    "PU_Name": "005B, COLLEGE ROAD OFF ZION ROAD",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "031",
-                    "PU_Name": "ENTRANCE OF RUFUS LANIYAN ESTATE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "032",
-                    "PU_Name": "HOUSE 17, ONDO STR, IRAWO",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "033",
-                    "PU_Name": "FADAYOMI JUNCTION, OWULADE IRAWO",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "034",
-                    "PU_Name": "5/6 CHURCH STR, AJEGUNLE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "035",
-                    "PU_Name": "10, ESOMOJUMI STR, AJEGUNLE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "036",
-                    "PU_Name": "OLANIRAN JUNCTION, BILLYWAY OJOMO",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "037",
-                    "PU_Name": "BASHORUN COMPUND OFF WHITE HOUSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "038",
-                    "PU_Name": "IN FRONT OF LAYO HOSPITAL, LAWAL STR JUNCTION, OFF ZION ROAD",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "039",
-                    "PU_Name": "JUNCTION OF FATA AYINDE/ IBADAN STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "040",
-                    "PU_Name": "SALVATION JUNCTION, BESIDE TRANSFORMER",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "041",
-                    "PU_Name": "JUNCTION OF PRINCE MOYOSORE BAKO/ ADESANYA STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "042",
-                    "PU_Name": "IN FRONT OF OLAKUNLE HOUSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "043",
-                    "PU_Name": "OGBEBO HOUSE OFF ADEKEYE STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "044",
-                    "PU_Name": "JUNCTION OF THOMAS LANIYAN/IKORODU ROAD",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "045",
-                    "PU_Name": "8, IFELODUN STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "046",
-                    "PU_Name": "IKORODU ROAD, OPPOSITE UNCLE BEN BUS STOP",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "047",
-                    "PU_Name": "ILE ANU COMPOUND",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "048",
-                    "PU_Name": "IKORODU ROAD, OPPOSITE RASCO JUNCTION",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "049",
-                    "PU_Name": "7, ADURAGBEMI STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "050",
-                    "PU_Name": "FRONT OF PLOT 1, UNITY ESTATE WAY",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "051",
-                    "PU_Name": "IKORODU ROAD, OPPOSITE AJEGUNLE BUS STOP BESIDE ILE EPO",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "052",
-                    "PU_Name": "OTERUBI OGIDAN BY WEIGHBRIDGE BUS STOP",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "053",
-                    "PU_Name": "25, OTERUBI OGIDAN STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "054",
-                    "PU_Name": "JUNCTION OF OTERUBI OGIDAN/OLUFUWA CRESCENT",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "055",
-                    "PU_Name": "HOUSE NO 1, DURU AVENUE, OWODE ELEDE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "056",
-                    "PU_Name": "JUNCTION OF AIYENUWA STR/IKORODU ROAD",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "057",
-                    "PU_Name": "JUNCTION OF SUNMOLA BAKO STR/ANIBABA STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "058",
-                    "PU_Name": "JUNCTION OF OTERUBI OGIDAN/COMMUNITY CLOSE",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
-                    }
-                },
-                {
-                    "PU_No": "059",
-                    "PU_Name": "JUNCTION OF BOLA KAZEEM/IFELODUN STR",
-                    "Remark": "NEW PU",
-                    "Result": {
-                        "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        },
-                        "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
-                        }
+            },
+            {
+                "PU_No": "005",
+                "PU_Name": "AINA ROAD, IN FRONT OF HOUSE NO. 62",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
                     }
                 }
-            ]
-        }
+            },
+            {
+                "PU_No": "006",
+                "PU_Name": "OMO OBANTA ST. IN FRONT OF HOUSE NO. 4",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "72",
+                        "PDP": "7",
+                        "LP": "51",
+                        "NNPP": "1",
+                        "ADC": "0"
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "81",
+                        "PDP": "33",
+                        "LP": "0",
+                        "NNPP": "8",
+                        "ADC": "4"
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "77",
+                        "PDP": "33",
+                        "LP": "0",
+                        "NNPP": "11",
+                        "ADC": "8"
+                    }
+                }
+            },
+            {
+                "PU_No": "007",
+                "PU_Name": "OMO OBANTA ST. IN FRONT OF HOUSE NO. 2",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "008",
+                "PU_Name": "MAIDAN PRIMARY SCHOOL",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "009",
+                "PU_Name": "AKOROHUNFAYO ST. IN FRONT OF HOUSE NO. 15",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "010",
+                "PU_Name": "AFINJUOMO ST. IN FRONT OF HOUSE NO. 7",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "011",
+                "PU_Name": "AFINJUOMO ST. IN FRONT OF HOUSE NO. 24",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "012",
+                "PU_Name": "ONIYANRIN ST. IN FRONT OF HOUSE NO. 17",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "013",
+                "PU_Name": "ONIYANRIN ST. IN FRONT OF HOUSE NO. 34",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "014",
+                "PU_Name": "ILAJE ST. IN FRONT OF HOUSE NO. 19",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "015",
+                "PU_Name": "JUNCTION OF OLOWOLAGBA ST./SADIKU ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "016",
+                "PU_Name": "MAIDAN ROAD, IN FRONT OF HOUSE NO. 4",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "017",
+                "PU_Name": "MAIDAN ROAD, IN FRONT OF HOUSE NO. 20",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "018",
+                "PU_Name": "MAIDAN ROAD, IN FRONT OF HOUSE NO. 34",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "019",
+                "PU_Name": "JUNCTION OF MAIDAN ROAD/FATOKI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "020",
+                "PU_Name": "ALH. AYISATU ST, IN FRONT OF HOUSE NO 14",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "021",
+                "PU_Name": "JUNCTION OF ALH. AYISATU ST./BADIRU ST. II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "48",
+                        "PDP": "2",
+                        "LP": "6",
+                        "NNPP": "3",
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "53",
+                        "PDP": "6",
+                        "LP": 0,
+                        "NNPP": "3",
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "54",
+                        "PDP": "5",
+                        "LP": 0,
+                        "NNPP": "3",
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "022",
+                "PU_Name": "DADA ST. IN FRONT OF HOUSE NO. 2",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "023",
+                "PU_Name": "DADA ST. IN FRONT OF HOUSE NO. 27",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "024",
+                "PU_Name": "DADA ST. IN FRONT OF HOUSE NO. 2",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "025",
+                "PU_Name": "DADA ST. IN FRONT OF HOUSE NO. 12",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "026",
+                "PU_Name": "ADEBIMPE ST. IN FRONT OF HOUSE NO. 20",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "027",
+                "PU_Name": "JUNCTION OF ADEBIMPE ST./AJIBOLA COMPOUND",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "028",
+                "PU_Name": "JUNCTION OF OMOJUWA ST./QUADRI ST. I",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "029",
+                "PU_Name": "JUNCTION OF OMOJUWA ST./QUADRI ST. II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "030",
+                "PU_Name": "ONDUN ST. IN FRONT OF HOUSE NO. 4",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "031",
+                "PU_Name": "ODUNTAN ST. IN FRONT OF HOUSE NO. 51",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "032",
+                "PU_Name": "OLUWALOGBON PRY. SCHOOL, ANIBABA ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "033",
+                "PU_Name": "JUNCTION OF SARUMI ST./CHURCH AVENUE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "034",
+                "PU_Name": "AIYEDERE AJIBOLA HIGH SCHOOL I",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "71",
+                        "PDP": "6",
+                        "LP": "43",
+                        "NNPP": "",
+                        "ADC": ""
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "87",
+                        "PDP": "28",
+                        "LP": 0,
+                        "NNPP": "2",
+                        "ADC": "3"
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "83",
+                        "PDP": "29",
+                        "LP": "",
+                        "NNPP": "4",
+                        "ADC": "5"
+                    }
+                }
+            },
+            {
+                "PU_No": "035",
+                "PU_Name": "AIYEDERE AJIBOLA HIGH SCHOOL II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "036",
+                "PU_Name": "JUNCTION OF DANIEL MAKINDE ST./OLORUNOSEBI ST. I",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "037",
+                "PU_Name": "JUNCTION OF DANIEL MAKINDE ST./OLORUNOSEBI ST. II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "038",
+                "PU_Name": "JUNCTION OF OLUWALOGBON ST./ONDUN ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "039",
+                "PU_Name": "JUNCTION OF DAIRO ST./AJEFEMI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "040",
+                "PU_Name": "OYEDEJI ST. IN FRONT OF HOUSE NO. 18",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "041",
+                "PU_Name": "OLALEYE STR, IN FRONT OF HOUSE NO 14.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "042",
+                "PU_Name": "OLATUNJI IGE ST. IN FRONT OF HOUSE NO. 2 II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "043",
+                "PU_Name": "OLATUNJI IGE ST. IN FRONT OF HOUSE NO. 18",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "044",
+                "PU_Name": "KAYODE ARIKAWE ST. IN FRONT OF HOUSE NO. 20",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "045",
+                "PU_Name": "OYERO BALOGUN ST. IN FRONT OF HOUSE NO. 12",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "046",
+                "PU_Name": "IKOSI HEALTH CENTRE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "047",
+                "PU_Name": "JUNCTION OF IKOSI ROAD/OYERO BALOGUN ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "048",
+                "PU_Name": "IKOSI HIGH SCHOOL I",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "049",
+                "PU_Name": "IKOSI HIGH SCHOOL II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "050",
+                "PU_Name": "OWODUNNI ST. IN FRONT OF HOUSE NO. 4",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "051",
+                "PU_Name": "OWODUNNI ST. IN FRONT OF HOUSE NO. 22",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "052",
+                "PU_Name": "OGUNLANA ST. IN FRONT OF HOUSE NO. 2",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "053",
+                "PU_Name": "OGUNLANA ST. IN FRONT OF HOUSE NO. 10",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "054",
+                "PU_Name": "OLADOGBA ST. IN FRONT OF HOUSE NO. 16",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "055",
+                "PU_Name": "OLADOGBA ST. IN FRONT OF HOUSE NO. 23",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "056",
+                "PU_Name": "JUNCTION OF OLUYOMBO ST./EKITI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "057",
+                "PU_Name": "OLUYOMBO ST. IN FRONT OF HOUSE NO. 2",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "058",
+                "PU_Name": "JUNCTION OF ADEYEMI ST./TAIWO ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "059",
+                "PU_Name": "IKOSI ROAD, IN FRONT OF HOUSE NO. 5",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "060",
+                "PU_Name": "OKUNOWO ST. IN FRONT OF HOUSE NO. 16",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "061",
+                "PU_Name": "LOVE ALL ST. IN FRONT OF HOUSE NO. 8",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "062",
+                "PU_Name": "TAIKE ST. IN FRONT OF HOUSE NO. 5",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "063",
+                "PU_Name": "TAIKE ST. IN FRONT OF HOUSE NO. 20",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "064",
+                "PU_Name": "SIFAU CLOSE, IN FRONT OF HOUSE NO. 14",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "065",
+                "PU_Name": "SIFAU CLOSE, IN FRONT OF HOUSE NO. 18",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "066",
+                "PU_Name": "ADEKUNLE SMITH ST. IN FRONT OF HOUSE NO. 2",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "067",
+                "PU_Name": "ADEKUNLE SMITH ST. IN FRONT OF HOUSE NO. 8",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "068",
+                "PU_Name": "ALADELOLA ST. BETWEEN HOUSE NOS. 10 & 12",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "069",
+                "PU_Name": "ALADELOLA ST. BETWEEN HOUSE NOS. 49 & 51",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "070",
+                "PU_Name": "ALADELOLA ST. BETWEEN HOUSE NOS. 102 & 104",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "071",
+                "PU_Name": "JUNCTION OF ADEMOLA OSINOWO ST,/KOLAYEMI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "072",
+                "PU_Name": "JUNCTION OF OGUNKOYA ST./DELE OGUNWA ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "073",
+                "PU_Name": "AKINOLA ST. IN FRONT OF HOUSE NO. 14",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "074",
+                "PU_Name": "IBE ODUGUWA CLOSE, IN FRONT OF HOUSE NO. 12",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "075",
+                "PU_Name": "JUNCTION OF JIMOH BALOGUN ST./ABENI CLOSE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "076",
+                "PU_Name": "JIMOH BALOGUN ST. IN FRONT OF HOUSE NO. 15",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "077",
+                "PU_Name": "SONAIKE ST. IN FRONT OF HOUSE NO. 20",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "078",
+                "PU_Name": "ADEYIGA ST. IN FRONT OF HOUSE NO. 18",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "079",
+                "PU_Name": "MOSUDI ST. IN FRONT OF HOUSE NO. 4",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "080",
+                "PU_Name": "MOSUDI ST. IN FRONT OF HOUSE NO. 19",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "081",
+                "PU_Name": "YAKUBU ST. IN FRONT OF HOUSE NO. 18",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "082",
+                "PU_Name": "HASSAN ST. IN FRONT OF HOUSE NO. 35",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "083",
+                "PU_Name": "HASSAN ST. IN FRONT OF HOUSE NO. 39",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "084",
+                "PU_Name": "ARAROMI IWO ST. IN FRONT OF HOUSE NO. 18",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "085",
+                "PU_Name": "IKORODU ROAD, IN FRONT OF HOUSE NO. 1, NEAR POLICE STATION, KETU",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "086",
+                "PU_Name": "JUNCTION OF IKOSI ROAD/IKORODU ROAD",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "087",
+                "PU_Name": "ALABA MARKET (BY ENTRANCE)",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "088",
+                "PU_Name": "KOLA ADEYEYE ST. IN FRONT OF HOUSE NO. 13",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "089",
+                "PU_Name": "ADEYEYE ST. IN FRONT OF HOUSE NO. 18",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "80",
+                        "PDP": "20",
+                        "LP": "18",
+                        "NNPP": "11",
+                        "ADC": ""
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "88",
+                        "PDP": "31",
+                        "LP": 0,
+                        "NNPP": "13",
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "87",
+                        "PDP": "32",
+                        "LP": 0,
+                        "NNPP": "11",
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "090",
+                "PU_Name": "OLUWALOGBON ST. IN FRONT OF HOUSE NO. 22",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "091",
+                "PU_Name": "KOSOFE MARKET (BY THE ENTRANCE) I",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "092",
+                "PU_Name": "KOSOFE MARKET II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "093",
+                "PU_Name": "KOSOFE MARKET (INSIDE) III",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "126",
+                        "PDP": "6",
+                        "LP": "15",
+                        "NNPP": "7",
+                        "ADC": "2"
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "143",
+                        "PDP": "10",
+                        "LP": 0,
+                        "NNPP": "6",
+                        "ADC": "0"
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "144",
+                        "PDP": "11",
+                        "LP": 0,
+                        "NNPP": "5",
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "094",
+                "PU_Name": "OGUNKOYA ST. IN FRONT OF HOUSE NO. 12",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "095",
+                "PU_Name": "ARAROMI IWO ST. IN FRONT OF HOUSE NO. 2",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "096",
+                "PU_Name": "OYERO BALOGUN ST. IN FRONT OF HOUSE NO. 3",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "097",
+                "PU_Name": "MAIDAN ROAD, IN FRONT OF HOUSE NO. 48",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "27",
+                        "PDP": "5",
+                        "LP": "18",
+                        "NNPP": "",
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "30",
+                        "PDP": "18",
+                        "LP": 0,
+                        "NNPP": "4",
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "31",
+                        "PDP": "16",
+                        "LP": 0,
+                        "NNPP": "6",
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "098",
+                "PU_Name": "JUNCTION OF OKUNNOWO ST./OKETOYINBO ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "099",
+                "PU_Name": "OKETOYINBO ST. IN FRONT OF HOUSE NO. 15",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "100",
+                "PU_Name": "OKETOYINBO ST. IN FRONT OF HOUSE NO. 19",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "101",
+                "PU_Name": "JUNCTION OF OLUYOMBO ST./ELEGBELEYE ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "102",
+                "PU_Name": "ADEBIMPE ST. IN FRONT OF HOUSE NO. 3",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "103",
+                "PU_Name": "JUNCTION OF AINA ROAD/AGILITI ROAD",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "104",
+                "PU_Name": "JUNCTION OF OMOJUWA ST BY OLANREWAJU.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "105",
+                "PU_Name": "JUNCTION OF OMOJUWA ST./QUADRI ST. II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "106",
+                "PU_Name": "AKINOLA ST. IN FRONT OF HOUSE NO. 16",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "107",
+                "PU_Name": "IN FRONT OF OGUNFADEKE ST",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "108",
+                "PU_Name": "MAGODO RD, HOUSE 49/51, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "109",
+                "PU_Name": "MAGODO RD, HOUSE 53, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "110",
+                "PU_Name": "FEMI ODUTAYO ST, HOUSE 4, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "111",
+                "PU_Name": "AINA RD HOUSE 15, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "112",
+                "PU_Name": "AINA RD., HOUSE 13, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "113",
+                "PU_Name": "9 ADEGBOYEGA STR, IKOSI KETU",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "114",
+                "PU_Name": "IBRAHIM SANUSI HOUSE 13, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "115",
+                "PU_Name": "APOSTLE AFINJUOMO ST, HOUSE 16, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "116",
+                "PU_Name": "APOSTLE AFINJUOMO ST, HOUSE 4",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "117",
+                "PU_Name": "ONIYARIN ST HOUSE 19",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "118",
+                "PU_Name": "IBRAHIM SANUSI ST HOUSE 2",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "119",
+                "PU_Name": "MAIDAN RD HOUSE 2",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "120",
+                "PU_Name": "FASANMI STREET, HOUSE 10",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "121",
+                "PU_Name": "MAIDAN RD HOUSE 22",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "122",
+                "PU_Name": "MAIDAN RD HOUSE 28 MILE 12",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "123",
+                "PU_Name": "FATOKI ST HOUSE 8",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "124",
+                "PU_Name": "FATOKI ST, HOUSE 1",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "125",
+                "PU_Name": "MARTINS STR, HOUSE 26",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "126",
+                "PU_Name": "ALHAJA AYISATU ST HOUSE 13",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "127",
+                "PU_Name": "DADA ST HOUSE 42, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "128",
+                "PU_Name": "DADA ST HOUSE 16",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "129",
+                "PU_Name": "ADEBIMPE ST HOUSE 12",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "130",
+                "PU_Name": "IKORODU RD HOUSE 571 BY BAALE HOUSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "131",
+                "PU_Name": "OMOJUWA ST HOUSE 7",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "132",
+                "PU_Name": "ODUNTAN ST HOUSE 5",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "133",
+                "PU_Name": "SARUMI ST, HOUSE 3",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "134",
+                "PU_Name": "MARTIN ST, HOUSE 28",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "135",
+                "PU_Name": "SAMUEL ANIBABA STR HOUSE 24",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "136",
+                "PU_Name": "OLORUNSEBI STREET, HOUSE 26 IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "137",
+                "PU_Name": "OLORUNSEBI STREET, HOUSE 10 IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "138",
+                "PU_Name": "OLUWALOGBON ST, HOUSE 18, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "139",
+                "PU_Name": "2, FASANMI STR, IKOSI KETU",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "140",
+                "PU_Name": "27, OGUNLANA STR, IKOSI KETU",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "141",
+                "PU_Name": "OLATUNJI IGE, HOUSE 8",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "142",
+                "PU_Name": "OLATUNJI IGE STREET, HOUSE 24",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "143",
+                "PU_Name": "OLATUNJI IGE ST, HOUSE 8, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "144",
+                "PU_Name": "IKORODU RD, HOUSE 459",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "145",
+                "PU_Name": "INSIDE IKOSI MARKET, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "146",
+                "PU_Name": "IKOSI PRIMARY SCHOOL",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "147",
+                "PU_Name": "BALOGUN OYERO STREET HOUSE 23 IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "148",
+                "PU_Name": "BELLO FOLAWEWO CRE,BLK 9 OPP JEHOVAH WITNESS",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "149",
+                "PU_Name": "ARIKAWE STREET, HOUSE 29",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "150",
+                "PU_Name": "IKOSI HIGH SCHOOL II",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "151",
+                "PU_Name": "OWODUNNI STREET, HOUSE 14, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "152",
+                "PU_Name": "IKOSI RD/OLADELE STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "153",
+                "PU_Name": "OLUFUNMILAYO/OGUNBO ST. JUNC.",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "154",
+                "PU_Name": "AYANBADEJO ST. HOUSE 3",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "155",
+                "PU_Name": "ADEYEMOYE STREET HOUSE 3/5 IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "156",
+                "PU_Name": "IKOSI STRE, HOUSE 8",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "157",
+                "PU_Name": "FAPOUNDA CLOSE BEHIND BAKARE CLOSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "158",
+                "PU_Name": "IKOSI RD, HOUSE 14B, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "159",
+                "PU_Name": "IKOSI RD, HOUSE 36, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "160",
+                "PU_Name": "BADEJOKO ST, HOUSE 3, IKOSI BY CAC CHURCH",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "161",
+                "PU_Name": "OMOLOLA ST/ADEMOLA OSHINOWO ST",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "162",
+                "PU_Name": "SALAWE ST/TAIWO & KEHINDE ONIKOSI RD",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "163",
+                "PU_Name": "5 IDAMA CL/ADERIBIGBE STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "164",
+                "PU_Name": "ALLI LANE, HOUSE 2, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "165",
+                "PU_Name": "KOLAYEMI/ALADELOLA STR JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "166",
+                "PU_Name": "COMMUNITY LANE/ALADELOLA JUNC.",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "167",
+                "PU_Name": "OLUYOMBO/DELE OKUWA",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "168",
+                "PU_Name": "AKINOLA ST/ALLI LANE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "169",
+                "PU_Name": "IKOSI RD HOUSE 52 IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "170",
+                "PU_Name": "JIMOH BALOGUN ST, HOUSE 2 IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "171",
+                "PU_Name": "OLANIPEKUN ST, HOUSE 5 OFF JIMOH BALOGUN",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "172",
+                "PU_Name": "SHONAIKE STREET, HOUSE 2 IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "173",
+                "PU_Name": "JAMIU BALOGUN ST HOUSE 5",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "174",
+                "PU_Name": "YAKUBU LANE HOUSE 44. IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "175",
+                "PU_Name": "HASSAN ST HOUSE 19. IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "176",
+                "PU_Name": "CHISCO PARK/FUTAI CLOSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "177",
+                "PU_Name": "INFRONT OF KETU POLICE STATION(KETU IKOSI)",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "178",
+                "PU_Name": "IKOSI RD, HOUSE 2",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "179",
+                "PU_Name": "IKORODU RD,HOUSE 604 MILE 12 (ALABA MARKET INSIDE )",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "180",
+                "PU_Name": "ADEYEYE ST HOUSE 4/NURUDEEN HOUSE 11",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "181",
+                "PU_Name": "OLUWALOGBON ST,HOUSE 29 IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "182",
+                "PU_Name": "IKORODU RD, HOUSE 604 MILE 12 (INSIDE KOSOFE INTL. PARK II DOWN)",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "183",
+                "PU_Name": "FATOKI ST, HOUSE 18, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "184",
+                "PU_Name": "SHUKURA YAM MARKET OFFICE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "185",
+                "PU_Name": "OLANREWAJU ST HOUSE 10",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "186",
+                "PU_Name": "AIYEGBEMI COMMUNITY HALL",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "187",
+                "PU_Name": "BALOGUN OYERO ST HOUSE 15 IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "188",
+                "PU_Name": "AKINPELUMI/SEGUN SALAU",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "189",
+                "PU_Name": "OKETOYINBO ST, HOUSE 2",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "190",
+                "PU_Name": "ADEBIMPE ST HOUSE 11, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "191",
+                "PU_Name": "14 AINA RD HOUSE 14 IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "192",
+                "PU_Name": "OMOJUWA ST HOUSE 5, IKOSI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "wardNo": 7,
+        "wardName": "ISHERI‐OLOWO‐IRA/SHANGISHA/MAGODO PHASE I & II",
+        "pollingUnits": [
+            {
+                "PU_No": "001",
+                "PU_Name": "JUNCTION OF ASSOCIATION AVENUE/ADEYEMI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "002",
+                "PU_Name": "ASSOCIATION AVENUE, IN FRONT OF HOUSE NO. 10",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "003",
+                "PU_Name": "OGUNNAIKE AVENUE IN FRONT OF HOUSE 10.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "004",
+                "PU_Name": "YAKUBU ST. IN FRONT OF HOUSE NO. 32",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "005",
+                "PU_Name": "OMONIYI ST. IN FRONT OF HOUSE NO. 10",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "006",
+                "PU_Name": "OLATUNJI OLADIPO ST. IN FRONT OF HOUSE NO. 4",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "007",
+                "PU_Name": "JUNCTION OF KASUMU STREET/YETUNDE JOSHUA AVENUE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "008",
+                "PU_Name": "JUNCTION OF ONIBEJU ST./MUTAIRU ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "009",
+                "PU_Name": "MOSES IGUDOALA ST. IN FRONT OF HOUSE NO. 4",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "010",
+                "PU_Name": "JUNCTION OF OLABISI ST./OLOLADE AVENUE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "011",
+                "PU_Name": "ZIKA USIPO ST. IN FRONT OF HOUSE NO. 1",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "012",
+                "PU_Name": "ALH. BASHEER SHITTU AVE, IN FRONT OF HOUSE NO 70.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "013",
+                "PU_Name": "ADEKUNLE ADEBANJO STR, IN FRONT OF HOUSE NO. 27",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "014",
+                "PU_Name": "OPEN SPACE BESIDE MAGODO/SHANGISHA POLICE POST",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "015",
+                "PU_Name": "JUNCTION OF KAYODE TAIWO ST./ADEBIYI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "016",
+                "PU_Name": "BOY'S APPROVE SCHOOL COMPOUND, ISHERI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "017",
+                "PU_Name": "JUNCTION OF AIYEDUN ST./SOYEBI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "018",
+                "PU_Name": "SEHINDEMI ST. IN FRONT OF HOUSE NO. 18",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "019",
+                "PU_Name": "AKINWUNMI ST. IN FRONT OF HOUSE NO. 15",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "020",
+                "PU_Name": "FELICIA OKE ST. IN FRONT OF HOUSE NO. 20",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "021",
+                "PU_Name": "JUNCTION OF ADEYEMI ST./OWOKADE ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "022",
+                "PU_Name": "FADEYI ST. IN FRONT OF HOUSE NO. 24",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "023",
+                "PU_Name": "MOSES OGUNGBEYE ST. IN FRONT OF HOUSE NO. 13",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "024",
+                "PU_Name": "ALFRED OGUNYEMI ST. IN FRONT OF HOUSE NO 6",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "025",
+                "PU_Name": "OLOWO-IRA ORY. SCHOOL",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "026",
+                "PU_Name": "JUNCTION OF OLOWO-IRA ROAD/GEORGE ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "027",
+                "PU_Name": "GEORGE ST. IN FRONT OF HOUSE NO. 26",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "028",
+                "PU_Name": "OLATUNDE ATIBA STREET IN FRONT OF HOUSE 13",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "029",
+                "PU_Name": "ADEGBOYEGA ST. IN FRONT OF HOUSE NO. 4",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "030",
+                "PU_Name": "ADETUBERU ST. IN FRONT OF HOUSE NO. 18",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "031",
+                "PU_Name": "JUNCTION OF ISHERI ROAD/ADEJOKUN ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "032",
+                "PU_Name": "AGBEDINA ST. IN FRONT OF HOUSE NO. 2 1",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "033",
+                "PU_Name": "AGBEDINA ST. IN FRONT OF HOUSE NO. 2 2",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "034",
+                "PU_Name": "WOMEN TRAINING CENTRE, AJIODE ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "035",
+                "PU_Name": "UNITED ANGLICAN CHURCH SCHOOL",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "036",
+                "PU_Name": "AJEGUNLE ST. IN FRONT OF HOUSE NO. 15",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "037",
+                "PU_Name": "JUNCTION OF MOSALASHI ST./AGO IJAIYE ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "038",
+                "PU_Name": "COMMUNITY HALL, ISHERI OKE I",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "039",
+                "PU_Name": "COMMUNITY HALL, ISHERI OKE II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "040",
+                "PU_Name": "APENA ST. IN FRONT OF HOUSE NO. 12",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "041",
+                "PU_Name": "KAREEM ST. IN FRONT OF HOUSE NO. 16",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "042",
+                "PU_Name": "SALAKO ST. IN FRONT OF HOUSE NO. 6",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "043",
+                "PU_Name": "ISHERI GRAMMAR SCH., ISHERI",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "044",
+                "PU_Name": "JUNCTION OF KOLAWOLE ST./ADEBIYI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "045",
+                "PU_Name": "WILMER ST. IN FRONT OF HOUSE NO. 7",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "046",
+                "PU_Name": "WILMER ST. IN FRONT OF HOUSE NO. 22",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "047",
+                "PU_Name": "IN FRONT OF MAGODO COMMUNITY VIEWING CENTRE (EKO GBEMI B/STOP) MAGODO PHASE II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "048",
+                "PU_Name": "IN FRONT OF B.K. LAWAL CLOSE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "049",
+                "PU_Name": "SOMIDE ODUJINRIN AVENUE, IN FRONT OF HOUSE NO. 15",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "050",
+                "PU_Name": "BY THE GATE OF TOKUNBO MACAULAY ST. ON EMMANUEL KESHI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "051",
+                "PU_Name": "ENTRANCE OF UNILAG ESTATE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "052",
+                "PU_Name": "JUNCTION OF SOWANDE ST./REV. EMMANUEL ADUBIFA AVENUE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "053",
+                "PU_Name": "OPEN SPACE BETWEEN FUNSO WILLIAMS ST./ADEFEMI TAIRE ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "054",
+                "PU_Name": "ALHAJI LATEEF BISHI ST., BETWEEN HOUSE NOS. 7 & 9",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "055",
+                "PU_Name": "JUNCTION OF ONIBEJU ST./MUTAIRU ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "056",
+                "PU_Name": "KASUNMU JUNC. BY THE TRANSFORMER",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "057",
+                "PU_Name": "53, ASSOCIATION AVENUE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "058",
+                "PU_Name": "7, OLUWAKEMI STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "059",
+                "PU_Name": "21, OMONIYI STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "060",
+                "PU_Name": "OSIKOMAYA STREET GATE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "061",
+                "PU_Name": "12, IREPODUN STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "062",
+                "PU_Name": "2, OLABISI STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "063",
+                "PU_Name": "YOMI KUYE/OLOLADE JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "064",
+                "PU_Name": "OGUNNAIKE/ADEKUNLE JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "065",
+                "PU_Name": "8, ALH. GBINDIN NINUOLA IDOWU STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "066",
+                "PU_Name": "23, ALH. ASAFA STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "067",
+                "PU_Name": "12, RAMAT ALONGE STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "068",
+                "PU_Name": "JUNC. OF MAIYE OGUNDANA/ADEKUNLE BANJO AVENUE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "069",
+                "PU_Name": "ROBERT STREET/MORADEUN ALABI CRESCENT JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "070",
+                "PU_Name": "DIPO AWOLESI/ADEKUNLE BANJO JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "071",
+                "PU_Name": "14, JAIYE OYEDOTUN STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "072",
+                "PU_Name": "33, JAIYE OYEDOTUN STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "073",
+                "PU_Name": "JUNCTION OF KAYODE TAIWO OPPOSITE PSSDC",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "074",
+                "PU_Name": "RIVER BANK ESTATE MAIN GATE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "075",
+                "PU_Name": "OPEN FIELD BESIDE CHANNELS TV",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "076",
+                "PU_Name": "ISHERI NORTH LSDPC ESTATE GATE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "077",
+                "PU_Name": "ISHERI NORTH GRA ESTATE GATE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "078",
+                "PU_Name": "OGUNJIRIN STREET/ADEBO ADEMEHIN JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "079",
+                "PU_Name": "ADIGUN FANBODE STREET BY SECURITY POST",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "080",
+                "PU_Name": "PRINCE JAMES ADEFEYISAN STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "081",
+                "PU_Name": "1, FELICIA OKE STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "082",
+                "PU_Name": "2, OWOKADE/SANYAOLU JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "083",
+                "PU_Name": "7, OLATUNDE SULE STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "084",
+                "PU_Name": "4, MOSES OGUNGBEYE STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "085",
+                "PU_Name": "RAFIU AJIBADE CLOSE/ FASHE STREET JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "086",
+                "PU_Name": "THOMAS ADEBOYE STREET/ OREMEJI STREET JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "087",
+                "PU_Name": "6,ALI STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "088",
+                "PU_Name": "OLOWORA RD/SOLOMON AVENUE JUNC.",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "089",
+                "PU_Name": "5, ADEBAYO STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "090",
+                "PU_Name": "ALH. ADEGBOYEGA/ABIOLA JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "091",
+                "PU_Name": "ISAAC OMOLE/ADETUBERU STREET JUNC.",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "092",
+                "PU_Name": "32, OLD OLOWORA RD, IN FRONT OF AWOSIKE HOUSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "093",
+                "PU_Name": "9, OKIKI PUSU STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "094",
+                "PU_Name": "15, BANKOLE STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "095",
+                "PU_Name": "10, SANGOREMI STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "096",
+                "PU_Name": "ISHERI PRIMARY SCHOOL II(INSIDE ANGLICAN SCHOOL)",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "097",
+                "PU_Name": "56 OGUN RIVER ROAD IN FRONT OF OSHORUN HOUSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "098",
+                "PU_Name": "3, BANKOLE ST/ADEBOLA JUBRIL CLOSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "099",
+                "PU_Name": "5, OGUNBIYI CRESCENT ISHERI OKE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "100",
+                "PU_Name": "99, OGUN RIVER RD",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "101",
+                "PU_Name": "40, KAREEM STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "102",
+                "PU_Name": "JAMIU OLOTO/FANOIKI STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "103",
+                "PU_Name": "GATEWAY ESTATE GATE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "104",
+                "PU_Name": "PLOT 2, ABIODUN BERO STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "105",
+                "PU_Name": "ISHERI HEALTH CENTRE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "106",
+                "PU_Name": "13,WILMER STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "107",
+                "PU_Name": "8, ADEBISI OKUWA STREET/AKIN TIJANI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "108",
+                "PU_Name": "20, SALAMI OLONODE STREET ISHERI",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "109",
+                "PU_Name": "41, JIMOH SHOBOWALE STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "110",
+                "PU_Name": "GBIGBI STR/UNIC HIGH SCH JUNC.",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "111",
+                "PU_Name": "TAWA ALIYU BELLO STR/OLUWATOYIN ELRAMO STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "112",
+                "PU_Name": "716 AINA AKINGBOLA STR BY THE ESTATE GATE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "113",
+                "PU_Name": "25, ADETORO ADELAJA STR.",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "114",
+                "PU_Name": "75,EMMANUEL KESHI STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "45",
+                        "PDP": "9",
+                        "LP": "91",
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "74",
+                        "PDP": "45",
+                        "LP": 0,
+                        "NNPP": "",
+                        "ADC": "21"
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "80",
+                        "PDP": "42",
+                        "LP": 0,
+                        "NNPP": "",
+                        "ADC": "19"
+                    }
+                }
+            },
+            {
+                "PU_No": "115",
+                "PU_Name": "IN FRONT OF PARKER CLOSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "116",
+                "PU_Name": "14, ADETORO ADELAJA STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "117",
+                "PU_Name": "ADETORO ADELAJA/WALE ADELEKAN STREET JUNC.",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "118",
+                "PU_Name": "2, BABS OSIBO STREET, MAGODO PHASE II",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "119",
+                "PU_Name": "SOCIAL ROAD OPP COUNCIL CRESCENT JUNC.",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "120",
+                "PU_Name": "9, ENGINEERING CLOSE OPP. LAW CLOSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "121",
+                "PU_Name": "JUNC. OF OLOWORA/ODUGIRIN",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "122",
+                "PU_Name": "AINA AKINGBOLA/OTEDOLA STR JUNC",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "123",
+                "PU_Name": "IBRAHIM BALOGUN STR IN FRONT OF CHIEF ODUMOSU HOUSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "124",
+                "PU_Name": "42, OSHORUN STREET",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "wardNo": 8,
+        "wardName": "AGBOYI I",
+        "pollingUnits": [
+            {
+                "PU_No": "001",
+                "PU_Name": "AGBOYI PRY. SCHOOL I",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "137",
+                        "PDP": "24",
+                        "LP": "38",
+                        "NNPP": "38",
+                        "ADC": "0"
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "150",
+                        "PDP": "41",
+                        "LP": "0",
+                        "NNPP": "1",
+                        "ADC": ""
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "150",
+                        "PDP": "44",
+                        "LP": "1",
+                        "NNPP": "33",
+                        "ADC": ""
+                    }
+                }
+            },
+            {
+                "PU_No": "002",
+                "PU_Name": "AGBOYI PRY. SCHOOL II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "124",
+                        "PDP": "20",
+                        "LP": "13",
+                        "NNPP": "1",
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "128",
+                        "PDP": "27",
+                        "LP": 0,
+                        "NNPP": "2",
+                        "ADC": "2"
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "125",
+                        "PDP": "28",
+                        "LP": "0",
+                        "NNPP": "0",
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "003",
+                "PU_Name": "ITA OLOKUN COMPOUND (RIGHT HANDSIDE)",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "125",
+                        "PDP": "21",
+                        "LP": "7",
+                        "NNPP": "",
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "132",
+                        "PDP": "27",
+                        "LP": "0",
+                        "NNPP": "",
+                        "ADC": ""
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "132",
+                        "PDP": "25",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "004",
+                "PU_Name": "ITA OLOKUN COMPOUND (LEFT HANDSIDE)",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "89",
+                        "PDP": "7",
+                        "LP": "9",
+                        "NNPP": "0",
+                        "ADC": "0"
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "93",
+                        "PDP": "12",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "95",
+                        "PDP": "12",
+                        "LP": "1",
+                        "NNPP": 0,
+                        "ADC": "1"
+                    }
+                }
+            },
+            {
+                "PU_No": "005",
+                "PU_Name": "AGBOYI HEALTH CENTRE I",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "121",
+                        "PDP": "18",
+                        "LP": "31",
+                        "NNPP": "1",
+                        "ADC": "1"
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "136",
+                        "PDP": "28",
+                        "LP": 0,
+                        "NNPP": "5",
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "137",
+                        "PDP": "27",
+                        "LP": "5",
+                        "NNPP": 0,
+                        "ADC": ""
+                    }
+                }
+            },
+            {
+                "PU_No": "006",
+                "PU_Name": "AGBOYI HEALTH CENTRE II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "95",
+                        "PDP": "8",
+                        "LP": "6",
+                        "NNPP": "1",
+                        "ADC": ""
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "103",
+                        "PDP": "9",
+                        "LP": 0,
+                        "NNPP": "",
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "99",
+                        "PDP": "10",
+                        "LP": "0",
+                        "NNPP": 0,
+                        "ADC": "0"
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "wardNo": 9,
+        "wardName": "AGBOYI II",
+        "pollingUnits": [
+            {
+                "PU_No": "001",
+                "PU_Name": "ITA BAALE, AGBOYI II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "75",
+                        "PDP": "6",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "78",
+                        "PDP": "9",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "76",
+                        "PDP": "10",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "002",
+                "PU_Name": "ITA BAALE, AGBOYI III",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "84",
+                        "PDP": "9",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "003",
+                "PU_Name": "ITA BAALE, AGBOYI II",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "76",
+                        "PDP": "19",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "004",
+                "PU_Name": "AGBOYI PRY. SCHOOL",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": "",
+                        "PDP": "",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": "",
+                        "PDP": "",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "121",
+                        "PDP": "27",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "005",
+                "PU_Name": "OPEN SPACE NEAR BAALE'S COMPOUND",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": "98",
+                        "PDP": "10",
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "wardNo": 10,
+        "wardName": "OWODE ONIRIN/AJEGUNLE/ODO‐OGUN",
+        "pollingUnits": [
+            {
+                "PU_No": "001",
+                "PU_Name": "ESINLOKUN ST., BETWEEN HOUSE NOS. 1 & 3",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "002",
+                "PU_Name": "IN FRONT OF SHONIBARE COMPOUND",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "003",
+                "PU_Name": "ZION ROAD, IN FRONT OF HOUSE NO. 1",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "004",
+                "PU_Name": "ZION ROAD, IN FRONT OF HOUSE NO. 21",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "005",
+                "PU_Name": "ZION ROAD, IN FRONT OF HOUSE NO. 10",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "006",
+                "PU_Name": "IRAWO ROAD, IN FRONT OF HOUSE NO. 10",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "007",
+                "PU_Name": "IRAWO ROAD, IN FRONT OF HOUSE NO. 20",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "008",
+                "PU_Name": "ANGLICAN PRIMARY SCH., ODO-OGUN",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "009",
+                "PU_Name": "ESOMOJUMI CLOSE, IN FRONT OF HOUSE NO. 7",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "010",
+                "PU_Name": "OLAKUNLE ST. IN FRONT OF HOUSE NOS. 9 & 11",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "011",
+                "PU_Name": "LAWAL ST. BETWEEN HOUSE NOS. 6 & 8",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "012",
+                "PU_Name": "RAJI BALOGUN ST. IN FRONT OF HOUSE NO. 1",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "013",
+                "PU_Name": "JUNCTION OF THOMAS LANIYAN ST./ASSOCIATION AVENUE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "014",
+                "PU_Name": "JUNCTION OF THOMAS LANIYAN ST./SONUBI ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "015",
+                "PU_Name": "JUNCTION OF THOMAS LANIYAN ST./ARIYO ST.",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "016",
+                "PU_Name": "OLORUNSOGO ST. IN FRONT OF HOUSE NO. 10",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "017",
+                "PU_Name": "BAALE CRESCENT, IN FRONT OF HOUSE NO. 3",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "018",
+                "PU_Name": "BAALE CRESCENT, IN FRONT OF HOUSE NO. 9",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "019",
+                "PU_Name": "BAALE CRESCENT, IN FRONT OF HOUSE NO. 20",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "020",
+                "PU_Name": "IKORODU ROAD, BETWEEN HOUSE NOS. 44 & 46",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "021",
+                "PU_Name": "RASCO ST., IN FRONT OF HOUSE NO. 1",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "022",
+                "PU_Name": "OPEN SPACE WITHIN IDERA VILLAGE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "023",
+                "PU_Name": "OPEN SPACE WITHIN KIOKIO VILLAGE",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "024",
+                "PU_Name": "OTENUBI OGIDAN ST. BETWEEN HOUSE NOS. 1 & 3",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "025",
+                "PU_Name": "VICTORIA ANIBABA ST., IN FRONT OF HOUSE NO. 2",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "026",
+                "PU_Name": "OLALUSI ST., IN FRONT OF HOUSE NO. 10",
+                "Remark": "EXISTING PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "027",
+                "PU_Name": "4/6 ESHINLOKUN STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "028",
+                "PU_Name": "IN FRONT OF MOSQUE, SHONIBARE COMPOUND",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "029",
+                "PU_Name": "7, ZION STR, AJEGUNLE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "030",
+                "PU_Name": "005B, COLLEGE ROAD OFF ZION ROAD",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "031",
+                "PU_Name": "ENTRANCE OF RUFUS LANIYAN ESTATE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "032",
+                "PU_Name": "HOUSE 17, ONDO STR, IRAWO",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "033",
+                "PU_Name": "FADAYOMI JUNCTION, OWULADE IRAWO",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "034",
+                "PU_Name": "5/6 CHURCH STR, AJEGUNLE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "035",
+                "PU_Name": "10, ESOMOJUMI STR, AJEGUNLE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "036",
+                "PU_Name": "OLANIRAN JUNCTION, BILLYWAY OJOMO",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "037",
+                "PU_Name": "BASHORUN COMPUND OFF WHITE HOUSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "038",
+                "PU_Name": "IN FRONT OF LAYO HOSPITAL, LAWAL STR JUNCTION, OFF ZION ROAD",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "039",
+                "PU_Name": "JUNCTION OF FATA AYINDE/ IBADAN STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "040",
+                "PU_Name": "SALVATION JUNCTION, BESIDE TRANSFORMER",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "041",
+                "PU_Name": "JUNCTION OF PRINCE MOYOSORE BAKO/ ADESANYA STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "042",
+                "PU_Name": "IN FRONT OF OLAKUNLE HOUSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "043",
+                "PU_Name": "OGBEBO HOUSE OFF ADEKEYE STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "044",
+                "PU_Name": "JUNCTION OF THOMAS LANIYAN/IKORODU ROAD",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "045",
+                "PU_Name": "8, IFELODUN STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "046",
+                "PU_Name": "IKORODU ROAD, OPPOSITE UNCLE BEN BUS STOP",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "047",
+                "PU_Name": "ILE ANU COMPOUND",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "048",
+                "PU_Name": "IKORODU ROAD, OPPOSITE RASCO JUNCTION",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "049",
+                "PU_Name": "7, ADURAGBEMI STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "050",
+                "PU_Name": "FRONT OF PLOT 1, UNITY ESTATE WAY",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "051",
+                "PU_Name": "IKORODU ROAD, OPPOSITE AJEGUNLE BUS STOP BESIDE ILE EPO",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "052",
+                "PU_Name": "OTERUBI OGIDAN BY WEIGHBRIDGE BUS STOP",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "053",
+                "PU_Name": "25, OTERUBI OGIDAN STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "054",
+                "PU_Name": "JUNCTION OF OTERUBI OGIDAN/OLUFUWA CRESCENT",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "055",
+                "PU_Name": "HOUSE NO 1, DURU AVENUE, OWODE ELEDE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "056",
+                "PU_Name": "JUNCTION OF AIYENUWA STR/IKORODU ROAD",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "057",
+                "PU_Name": "JUNCTION OF SUNMOLA BAKO STR/ANIBABA STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "058",
+                "PU_Name": "JUNCTION OF OTERUBI OGIDAN/COMMUNITY CLOSE",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            },
+            {
+                "PU_No": "059",
+                "PU_Name": "JUNCTION OF BOLA KAZEEM/IFELODUN STR",
+                "Remark": "NEW PU",
+                "Result": {
+                    "Presidential": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "LagosEastSenatorial": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    },
+                    "HouseOfRepresentative": {
+                        "APC": 0,
+                        "PDP": 0,
+                        "LP": 0,
+                        "NNPP": 0,
+                        "ADC": 0
+                    }
+                }
+            }
+        ]
+    }
+
     ]
 }
 export default Data
