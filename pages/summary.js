@@ -37,7 +37,7 @@ const summary = () => {
       return previousValue*1 + currentValue.Result.Presidential.LP*1;
     }, 0);
     PreNNPP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValu*1e + currentValue.Result.Presidential.NNPP*1;
+      return previousValue*1 + currentValue.Result.Presidential.NNPP*1;
     }, 0);
     PreADC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
       return previousValue*1 + currentValue.Result.Presidential.ADC*1;
