@@ -27,21 +27,7 @@ const summary = () => {
   let HORADC = 0;
 
   kosofeData.map((ward) => {
-    PreAPC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue*1 + currentValue.Result.Presidential.APC*1;
-    }, 0);
-    PrePDP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue*1 + currentValue.Result.Presidential.PDP*1;
-    }, 0);
-    PreLP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue*1 + currentValue.Result.Presidential.LP*1;
-    }, 0);
-    PreNNPP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue*1 + currentValue.Result.Presidential.NNPP*1;
-    }, 0);
-    PreADC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue*1 + currentValue.Result.Presidential.ADC*1;
-    }, 0);
+   
 
     LESAPC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
       return previousValue + currentValue.Result.LagosEastSenatorial.APC;
