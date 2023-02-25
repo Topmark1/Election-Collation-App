@@ -39,6 +39,19 @@ const summary = () => {
     }, 0);
   });
 
+  kosofeData.map((ward) => {
+    PreNNPP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
+      return previousValue*1 + currentValue.Result.Presidential.NNPP*1;
+    }, 0);
+    PreADC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
+      return previousValue*1 + currentValue.Result.Presidential.ADC*1;
+    }, 0);
+
+    LESAPC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
+      return previousValue + currentValue.Result.LagosEastSenatorial.APC;
+    }, 0);
+    });
+    
   return (
     <div className={Style.summary} style={{fontFamily:'times new Roman'}}>
       <div className={Style.summary_box} style={{marginTop:'-30px'}}>
