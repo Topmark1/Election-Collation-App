@@ -36,11 +36,11 @@ const summary = () => {
     PreLP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
       return previousValue*1 + currentValue.Result.Presidential.LP*1;
     }, 0);
-    PreNNPP += ward.pollingUnits.reduce(function (previousValue*1, currentValue*1) {
-      return previousValue + currentValue.Result.Presidential.NNPP;
+    PreNNPP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
+      return previousValu*1e + currentValue.Result.Presidential.NNPP*1;
     }, 0);
-    PreADC += ward.pollingUnits.reduce(function (previousValue*1, currentValue*1) {
-      return previousValue + currentValue.Result.Presidential.ADC;
+    PreADC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
+      return previousValue*1 + currentValue.Result.Presidential.ADC*1;
     }, 0);
 
     LESAPC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
