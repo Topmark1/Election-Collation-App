@@ -47,7 +47,7 @@ const summary = () => {
       return previousValue*1 + currentValue.Result.Presidential.ADC*1;
     }, 0);
 
-    LESAPC += ward.pollingUnits.reduce(function (previousValue*1, currentValue*1) {
+    LESAPC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
       return previousValue*1 + currentValue.Result.LagosEastSenatorial.APC*1;
     }, 0);
     });
