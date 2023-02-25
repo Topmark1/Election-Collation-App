@@ -37,44 +37,6 @@ const summary = () => {
     PreLP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
       return previousValue*1 + currentValue.Result.Presidential.LP*1;
     }, 0);
-    PreNNPP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue*1 + currentValue.Result.Presidential.NNPP*1;
-    }, 0);
-    PreADC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue*1 + currentValue.Result.Presidential.ADC*1;
-    }, 0);
-
-    LESAPC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.LagosEastSenatorial.APC;
-    }, 0);
-    LESPDP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.LagosEastSenatorial.PDP;
-    }, 0);
-    LESLP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.LagosEastSenatorial.LP;
-    }, 0);
-    LESNNPP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.LagosEastSenatorial.NNPP;
-    }, 0);
-    LESADC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.LagosEastSenatorial.ADC;
-      
-    }, 0);
-    HORAPC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.HouseOfRepresentative.APC;
-    }, 0);
-    HORPDP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.HouseOfRepresentative.PDP;
-    }, 0);
-    HORLP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.HouseOfRepresentative.LP;
-    }, 0);
-    HORNNPP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.HouseOfRepresentative.NNPP;
-    }, 0);
-    HORADC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.HouseOfRepresentative.ADC;
-    }, 0);
   });
 
   return (
