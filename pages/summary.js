@@ -28,18 +28,18 @@ const summary = () => {
 
   kosofeData.map((ward) => {
     PreAPC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.Presidential.APC;
+      return previousValue*1 + currentValue.Result.Presidential.APC*1;
     }, 0);
     PrePDP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.Presidential.PDP;
+      return previousValue*1 + currentValue.Result.Presidential.PDP*1;
     }, 0);
     PreLP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.Presidential.LP;
+      return previousValue*1 + currentValue.Result.Presidential.LP*1;
     }, 0);
-    PreNNPP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
+    PreNNPP += ward.pollingUnits.reduce(function (previousValue*1, currentValue*1) {
       return previousValue + currentValue.Result.Presidential.NNPP;
     }, 0);
-    PreADC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
+    PreADC += ward.pollingUnits.reduce(function (previousValue*1, currentValue*1) {
       return previousValue + currentValue.Result.Presidential.ADC;
     }, 0);
 
