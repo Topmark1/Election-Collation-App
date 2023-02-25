@@ -58,7 +58,7 @@ const wards = () => {
                     <p>
                       APC: {
                         ward.pollingUnits.reduce(function(previousValue,currentValue){
-                          return previousValue + currentValue.Result.Presidential.APC
+                          return previousValue*1 + currentValue.Result.Presidential.APC*1
                         },0)
                         }, 
                       
@@ -83,7 +83,7 @@ const wards = () => {
                     <p>
                       APC: {
                         ward.pollingUnits.reduce(function(previousValue,currentValue){
-                          return previousValue + currentValue.Result.LagosEastSenatorial.APC
+                          return previousValue*1 + currentValue.Result.LagosEastSenatorial.APC*1
                         },0)
                         }, 
                       
@@ -108,7 +108,7 @@ const wards = () => {
                     <p>
                       APC: {
                         ward.pollingUnits.reduce(function(previousValue,currentValue){
-                          return previousValue + currentValue.Result.HouseOfRepresentative.APC
+                          return previousValue*1 + currentValue.Result.HouseOfRepresentative.APC*1
                         },0)
                         }, 
                       
@@ -117,7 +117,7 @@ const wards = () => {
                           return (previousValue*1) + (currentValue.Result.HouseOfRepresentative.PDP*1)
                         },0)}, LP:
                       {ward.pollingUnits.reduce(function(previousValue,currentValue){
-                          return previousValue + currentValue.Result.HouseOfRepresentative.LP*1
+                          return previousValue*1 + currentValue.Result.HouseOfRepresentative.LP*1
                         },0)}, NNPP:{" "}
                       {ward.pollingUnits.reduce(function(previousValue,currentValue){
                           return previousValue*1 + currentValue.Result.HouseOfRepresentative.NNPP*1
