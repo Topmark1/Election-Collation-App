@@ -29,22 +29,6 @@ const summary = () => {
   kosofeData.map((ward) => {
    
 
-    LESAPC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.LagosEastSenatorial.APC;
-    }, 0);
-    LESPDP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.LagosEastSenatorial.PDP;
-    }, 0);
-    LESLP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.LagosEastSenatorial.LP;
-    }, 0);
-    LESNNPP += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.LagosEastSenatorial.NNPP;
-    }, 0);
-    LESADC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
-      return previousValue + currentValue.Result.LagosEastSenatorial.ADC;
-    }, 0);
-
     HORAPC += ward.pollingUnits.reduce(function (previousValue, currentValue) {
       return previousValue + currentValue.Result.HouseOfRepresentative.APC;
     }, 0);
