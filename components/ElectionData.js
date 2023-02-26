@@ -14394,7 +14394,7 @@ const Data = {
                 }
             ]
         },
-        {
+       {
             "wardNo": 6,
             "wardName": "IKOSI KETU/MILE I2/AGILITI/MAIDAN",
             "pollingUnits": [
@@ -14544,25 +14544,25 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "72",
+                            "PDP": "7",
+                            "LP": "51",
+                            "NNPP": "1",
+                            "ADC": "0"
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "81",
+                            "PDP": "33",
+                            "LP": "0",
+                            "NNPP": "8",
+                            "ADC": "4"
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "77",
+                            "PDP": "33",
+                            "LP": "0",
+                            "NNPP": "11",
+                            "ADC": "8"
                         }
                     }
                 },
@@ -14964,24 +14964,24 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
+                            "APC": "48",
+                            "PDP": "2",
+                            "LP": "6",
+                            "NNPP": "3",
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "53",
+                            "PDP": "6",
                             "LP": 0,
-                            "NNPP": 0,
+                            "NNPP": "3",
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "54",
+                            "PDP": "5",
                             "LP": 0,
-                            "NNPP": 0,
+                            "NNPP": "3",
                             "ADC": 0
                         }
                     }
@@ -15328,25 +15328,25 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "71",
+                            "PDP": "6",
+                            "LP": "43",
+                            "NNPP": "",
+                            "ADC": ""
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "87",
+                            "PDP": "28",
                             "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "NNPP": "2",
+                            "ADC": "3"
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "83",
+                            "PDP": "29",
+                            "LP": "",
+                            "NNPP": "4",
+                            "ADC": "5"
                         }
                     }
                 },
@@ -16868,24 +16868,24 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "80",
+                            "PDP": "20",
+                            "LP": "18",
+                            "NNPP": "11",
+                            "ADC": ""
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "88",
+                            "PDP": "31",
                             "LP": 0,
-                            "NNPP": 0,
+                            "NNPP": "13",
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "87",
+                            "PDP": "32",
                             "LP": 0,
-                            "NNPP": 0,
+                            "NNPP": "11",
                             "ADC": 0
                         }
                     }
@@ -16980,24 +16980,24 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "126",
+                            "PDP": "6",
+                            "LP": "15",
+                            "NNPP": "7",
+                            "ADC": "2"
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "143",
+                            "PDP": "10",
                             "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "NNPP": "6",
+                            "ADC": "0"
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "144",
+                            "PDP": "11",
                             "LP": 0,
-                            "NNPP": 0,
+                            "NNPP": "5",
                             "ADC": 0
                         }
                     }
@@ -17092,24 +17092,24 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
+                            "APC": "27",
+                            "PDP": "5",
+                            "LP": "18",
+                            "NNPP": "",
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "30",
+                            "PDP": "18",
                             "LP": 0,
-                            "NNPP": 0,
+                            "NNPP": "4",
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "31",
+                            "PDP": "16",
                             "LP": 0,
-                            "NNPP": 0,
+                            "NNPP": "6",
                             "ADC": 0
                         }
                     }
@@ -22950,25 +22950,25 @@ const Data = {
                     "Remark": "NEW PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "45",
+                            "PDP": "9",
+                            "LP": "91",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "74",
+                            "PDP": "45",
                             "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "NNPP": "",
+                            "ADC": "21"
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "80",
+                            "PDP": "42",
                             "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "NNPP": "",
+                            "ADC": "19"
                         }
                     }
                 },
@@ -23264,25 +23264,25 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "137",
+                            "PDP": "24",
+                            "LP": "38",
+                            "NNPP": "38",
+                            "ADC": "0"
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "150",
+                            "PDP": "41",
+                            "LP": "0",
+                            "NNPP": "1",
+                            "ADC": ""
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "150",
+                            "PDP": "44",
+                            "LP": "1",
+                            "NNPP": "33",
+                            "ADC": ""
                         }
                     }
                 },
@@ -23292,24 +23292,24 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
+                            "APC": "124",
+                            "PDP": "20",
+                            "LP": "13",
+                            "NNPP": "1",
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "128",
+                            "PDP": "27",
                             "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "NNPP": "2",
+                            "ADC": "2"
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
+                            "APC": "125",
+                            "PDP": "28",
+                            "LP": "0",
+                            "NNPP": "0",
                             "ADC": 0
                         }
                     }
@@ -23320,22 +23320,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
+                            "APC": "125",
+                            "PDP": "21",
+                            "LP": "7",
+                            "NNPP": "",
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "132",
+                            "PDP": "27",
+                            "LP": "0",
+                            "NNPP": "",
+                            "ADC": ""
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "132",
+                            "PDP": "25",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23348,25 +23348,25 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "89",
+                            "PDP": "7",
+                            "LP": "9",
+                            "NNPP": "0",
+                            "ADC": "0"
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "93",
+                            "PDP": "12",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "95",
+                            "PDP": "12",
+                            "LP": "1",
                             "NNPP": 0,
-                            "ADC": 0
+                            "ADC": "1"
                         }
                     }
                 },
@@ -23376,25 +23376,25 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "121",
+                            "PDP": "18",
+                            "LP": "31",
+                            "NNPP": "1",
+                            "ADC": "1"
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "136",
+                            "PDP": "28",
                             "LP": 0,
-                            "NNPP": 0,
+                            "NNPP": "5",
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "137",
+                            "PDP": "27",
+                            "LP": "5",
                             "NNPP": 0,
-                            "ADC": 0
+                            "ADC": ""
                         }
                     }
                 },
@@ -23404,25 +23404,25 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "95",
+                            "PDP": "8",
+                            "LP": "6",
+                            "NNPP": "1",
+                            "ADC": ""
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "103",
+                            "PDP": "9",
                             "LP": 0,
-                            "NNPP": 0,
+                            "NNPP": "",
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "99",
+                            "PDP": "10",
+                            "LP": "0",
                             "NNPP": 0,
-                            "ADC": 0
+                            "ADC": "0"
                         }
                     }
                 }
@@ -23438,22 +23438,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "75",
+                            "PDP": "6",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "78",
+                            "PDP": "9",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "76",
+                            "PDP": "10",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23480,8 +23480,8 @@ const Data = {
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "84",
+                            "PDP": "9",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23508,8 +23508,8 @@ const Data = {
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "76",
+                            "PDP": "19",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23522,22 +23522,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "",
+                            "PDP": "",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "",
+                            "PDP": "",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "121",
+                            "PDP": "27",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23564,8 +23564,8 @@ const Data = {
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "98",
+                            "PDP": "10",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23584,25 +23584,25 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "40",
+                            "PDP": "7",
+                            "LP": "7",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "40",
+                            "PDP": "13",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
-                            "NNPP": 0,
-                            "ADC": 0
+                            "APC": "40",
+                            "PDP": "13",
+                            "LP": "",
+                            "NNPP": "",
+                            "ADC": ""
                         }
                     }
                 },
@@ -23612,22 +23612,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "40",
+                            "PDP": "0",
+                            "LP": "10",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "41",
+                            "PDP": "7",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "40",
+                            "PDP": "7",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23640,22 +23640,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "55",
+                            "PDP": "12",
+                            "LP": "23",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "61",
+                            "PDP": "29",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "62",
+                            "PDP": "30",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23668,22 +23668,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "58",
+                            "PDP": "8",
+                            "LP": "23",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "57",
+                            "PDP": "23",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "64",
+                            "PDP": "25",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23696,22 +23696,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "46",
+                            "PDP": "5",
+                            "LP": "20",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "48",
+                            "PDP": "26",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "47",
+                            "PDP": "27",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23724,22 +23724,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "96",
+                            "PDP": "12",
+                            "LP": "254",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "128",
+                            "PDP": "154",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "112",
+                            "PDP": "186",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23752,22 +23752,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "111",
+                            "PDP": "8",
+                            "LP": "199",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "138",
+                            "PDP": "128",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "127",
+                            "PDP": "141",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23780,22 +23780,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "92",
+                            "PDP": "12",
+                            "LP": "39",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "18",
+                            "PDP": "40",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "96",
+                            "PDP": "45",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23808,22 +23808,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "80",
+                            "PDP": "5",
+                            "LP": "28",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "90",
+                            "PDP": "14",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "84",
+                            "PDP": "14",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23836,22 +23836,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "104",
+                            "PDP": "12",
+                            "LP": "64",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "121",
+                            "PDP": "40",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "123",
+                            "PDP": "41",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23864,22 +23864,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "60",
+                            "PDP": "",
+                            "LP": "37",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "63",
+                            "PDP": "44",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "65",
+                            "PDP": "39",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23892,22 +23892,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "99",
+                            "PDP": "11",
+                            "LP": "111",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "115",
+                            "PDP": "75",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "114",
+                            "PDP": "81",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23920,22 +23920,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "9",
+                            "PDP": "8",
+                            "LP": "82",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "99",
+                            "PDP": "47",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "104",
+                            "PDP": "51",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23948,22 +23948,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "74",
+                            "PDP": "5",
+                            "LP": "53",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "77",
+                            "PDP": "38",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "81",
+                            "PDP": "37",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -23976,22 +23976,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "78",
+                            "PDP": "2",
+                            "LP": "40",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "88",
+                            "PDP": "21",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "87",
+                            "PDP": "27",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -24116,22 +24116,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "6",
+                            "PDP": "5",
+                            "LP": "30",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "66",
+                            "PDP": "20",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "62",
+                            "PDP": "25",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
@@ -24228,22 +24228,22 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": 0,
-                            "PDP": 0,
-                            "LP": 0,
+                            "APC": "f",
+                            "PDP": "",
+                            "LP": "",
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "LagosEastSenatorial": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "179",
+                            "PDP": "80",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
                         },
                         "HouseOfRepresentative": {
-                            "APC": 0,
-                            "PDP": 0,
+                            "APC": "168",
+                            "PDP": "79",
                             "LP": 0,
                             "NNPP": 0,
                             "ADC": 0
