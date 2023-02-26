@@ -24228,7 +24228,7 @@ const Data = {
                     "Remark": "EXISTING PU",
                     "Result": {
                         "Presidential": {
-                            "APC": "f",
+                            "APC": 0,
                             "PDP": "",
                             "LP": "",
                             "NNPP": 0,
